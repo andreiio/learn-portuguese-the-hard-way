@@ -9,7 +9,7 @@ __Space__ or __left__ key for next step
 - {:.fragment} Quero um café.
 
 These slides are a work-in-progress. Watch the [repo](https://github.com/profound-labs/learn-portuguese) or the [commits feed](https://github.com/profound-labs/learn-portuguese/commits/gh-pages.atom) for updates.
-{:.fragment}
+{:.fragment style="padding-top: 2em;"}
 
 </section>
 <section>
