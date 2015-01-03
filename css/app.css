@@ -1,0 +1,13 @@
+
+.reveal { font-size: 25px; line-height: 1.7em; letter-spacing: 0; }
+
+/* .reveal em { font-family: serif; } */
+
+.reveal table { padding-top: 1em; }
+.reveal ul { padding-top: 1em; }
+
+.reveal ul li { list-style-type: none; }
+
+.reveal .sentences table { width: 100%; }
+.reveal .sentences table td { width: 50%; }
+
