@@ -8,6 +8,9 @@ __Space__ or __left__ key for next step
 - {:.fragment} I want a coffee.
 - {:.fragment} Quero um café.
 
+These slides are a work-in-progress. Watch the [repo](https://github.com/profound-labs/learn-portuguese) or the [commits feed](https://github.com/profound-labs/learn-portuguese/commits/gh-pages.atom) for updates.
+{:.fragment}
+
 </section>
 <section>
 
@@ -64,13 +67,13 @@ Press __ESC__ to zoom out and jump between slides.
 | Yes    | Sim       |
 | No     | Não       |
 {:.fragment}
-  
-| coffee and ice cream | café e gela |
+
+| coffee and ice cream | café e sorvete |
 | because              | porque      |
 | but                  | mas         |
 | for                  | para        |
 {:.fragment}
- 
+
 | one   | um   |
 | two   | dois |
 | three | três |
@@ -97,7 +100,7 @@ Press __ESC__ to zoom out and jump between slides.
 - {:.fragment} Não quer, porque quer um bolo e um gela.
 
 - {:.fragment} But we need three spoons for the ice cream and for the coffees.
-- {:.fragment} Mas precisamos três colheres para o gela e para os cafés.
+- {:.fragment} Mas precisamos três colheres para o sorvete e para os cafés.
 
 </section>
 <section data-transition="zoom" data-background="#008800">
