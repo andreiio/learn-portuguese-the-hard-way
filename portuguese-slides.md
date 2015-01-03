@@ -55,12 +55,14 @@ Press __ESC__ to zoom out and jump between slides.
 
 <div class="sentences">
 
-| He wants a coffee. | Quer um café. |
+| He wants a coffee. | Ele quer um café. |
 
-| He doesn't want a coffee. | Não quer um café. |
+Do you want a coffee? - (O senhor) quer um café?
+
+| He doesn't want a coffee. | Ele não quer um café. |
 {:.fragment}
 
-| Does he want a coffee? | Quer um café? |
+| Does he want a coffee? | Ele quer um café? |
 {:.fragment}
 
 | Please | Por favor |
@@ -68,7 +70,7 @@ Press __ESC__ to zoom out and jump between slides.
 | No     | Não       |
 {:.fragment}
 
-| coffee and ice cream | café e sorvete |
+| coffee and ice cream | café e gelado |
 | because              | porque      |
 | but                  | mas         |
 | for                  | para        |
@@ -85,22 +87,22 @@ Press __ESC__ to zoom out and jump between slides.
 <section data-transition="zoom">
 
 - I want two coffes, please.
-- {:.fragment} Quero uns dois cafés, por favor.
+- {:.fragment} Quero dois cafés, por favor.
 
 - {:.fragment} Do you need a spoon?
-- {:.fragment} Precisas um colher?
+- {:.fragment} Precisas de uma colher?
 
 - {:.fragment} Yes, I need a spoon.
-- {:.fragment} Sim, preciso um colher.
+- {:.fragment} Sim, preciso de uma colher.
 
-- {:.fragment} Does she want the coffee?
-- {:.fragment} Ela quer o café?
+- {:.fragment} Does she want a coffee?
+- {:.fragment} Ela quer um café?
 
-- {:.fragment} She doesn't want, because she wants a cake and an ice cream.
-- {:.fragment} Não quer, porque quer um bolo e um gela.
+- {:.fragment} She doesn't want (it), because she wants a cake and an ice cream.
+- {:.fragment} Ela não quer, porque quer um bolo e um gelado.
 
 - {:.fragment} But we need three spoons for the ice cream and for the coffees.
-- {:.fragment} Mas precisamos três colheres para o sorvete e para os cafés.
+- {:.fragment} Mas precisamos de três colheres para o gelado e os cafés.
 
 </section>
 <section data-transition="zoom" data-background="#008800">
