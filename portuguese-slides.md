@@ -38,7 +38,7 @@ Press __ESC__ to zoom out and jump between slides.
 
 | a coffee    | um café (m.)               |
 | two coffees | uns dois cafés (m.pl.)     |
-| a spoon     | um colher (f.pl.)          |
+| a spoon     | uma colher (f.pl.)         |
 | two spoons  | umas dois colheres (f.pl.) |
 
 ----
@@ -57,12 +57,13 @@ Press __ESC__ to zoom out and jump between slides.
 
 | He wants a coffee. | Ele quer um café. |
 
-Do you want a coffee? - (O senhor) quer um café?
-
 | He doesn't want a coffee. | Ele não quer um café. |
 {:.fragment}
 
 | Does he want a coffee? | Ele quer um café? |
+{:.fragment}
+
+| (Do you) want a coffee? | (O senhor) quer um café? |
 {:.fragment}
 
 | Please | Por favor |
@@ -71,9 +72,9 @@ Do you want a coffee? - (O senhor) quer um café?
 {:.fragment}
 
 | coffee and ice cream | café e gelado |
-| because              | porque      |
-| but                  | mas         |
-| for                  | para        |
+| because              | porque        |
+| but                  | mas           |
+| for                  | para          |
 {:.fragment}
 
 | one   | um   |
@@ -101,7 +102,7 @@ Do you want a coffee? - (O senhor) quer um café?
 - {:.fragment} She doesn't want (it), because she wants a cake and an ice cream.
 - {:.fragment} Ela não quer, porque quer um bolo e um gelado.
 
-- {:.fragment} But we need three spoons for the ice cream and for the coffees.
+- {:.fragment} But we need three spoons for the ice cream and the coffees.
 - {:.fragment} Mas precisamos de três colheres para o gelado e os cafés.
 
 </section>
