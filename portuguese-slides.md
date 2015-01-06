@@ -3,7 +3,7 @@
 
 # Learn Portuguese
 
-__Space__ or __left__ key for next step
+__Space__ or __left__ for next step
 
 - {:.fragment} I would like a coffee, please.
 - {:.fragment} Queira um café, por favor.
@@ -40,24 +40,12 @@ Press __ESC__ to zoom out and jump between slides.
 | You (pl.) | Vós       | precis*am*   | quer*em*    |
 | They      | Eles/Elas | precis*am*   | quer*em*    |
 
------
-
-| a coffee    | um café (m.)               |
-| two coffees | uns dois cafés (m.pl.)     |
-| a spoon     | uma colher (f.)            |
-| two spoons  | umas dois colheres (f.pl.) |
-
-----
-
-| the coffee  | o café (m.)         |
-| the coffees | os cafés (m.pl.)    |
-| the spoon   | a colher (f.)       |
-| the spoons  | as colheres (f.pl.) |
-
 </section>
 
 </section>
 <section data-transition="zoom">
+
+<section>
 
 # a, an, some, the
 
@@ -81,6 +69,25 @@ to agree in gender with the noun.
 | the spoon   | a colher (f.)       |
 | the spoons  | as colheres (f.pl.) |
 {:.fragment}
+
+Press __down__ for a summary table.
+
+</section>
+<section>
+
+| a coffee     | um café (m.)          |
+| some coffees | uns cafés (m.pl.)     |
+| a spoon      | uma colher (f.)       |
+| some spoons  | umas colheres (f.pl.) |
+
+----
+
+| the coffee  | o café (m.)         |
+| the coffees | os cafés (m.pl.)    |
+| the spoon   | a colher (f.)       |
+| the spoons  | as colheres (f.pl.) |
+
+</section>
 
 </section>
 <section data-transition="linear">
@@ -117,8 +124,8 @@ Questions can be of the same form, with a raised tone at the end.
 # I would like
 
 When not talking to imaginary people in a language course, it is
-polite to make requests using *Queira* ('I would like', 'Be willing to') instead of
-*Quero* ('I want').
+polite to make requests using *Queira* ('I would like', 'Be willing
+to') instead of *Quero* ('I want').
 
 | Queira um café, por favor. | I would like a coffee, please. |
 
@@ -131,7 +138,6 @@ polite to make requests using *Queira* ('I would like', 'Be willing to') instead
 | because              | porque        |
 | but                  | mas           |
 | for                  | para          |
-{:.fragment}
 
 </section>
 <section data-transition="linear">
@@ -141,7 +147,6 @@ polite to make requests using *Queira* ('I would like', 'Be willing to') instead
 | one   | um   |
 | two   | dois |
 | three | três |
-{:.fragment}
 
 </section>
 <section data-transition="linear">
@@ -187,14 +192,9 @@ polite to make requests using *Queira* ('I would like', 'Be willing to') instead
 - {:.fragment} Mas precisamos de três colheres para o gelado e os cafés.
 
 </section>
-<section data-transition="linear">
-
-# this and that
-
-</section>
 <section>
 
-<section data-transition="linear">
+<section data-transition="linear" data-background="#AC1919">
 
 # roses are red forever
 
@@ -230,7 +230,7 @@ Use it for:
 </section>
 <section>
 
-<section data-transition="linear">
+<section data-transition="linear" data-background="#1931AC">
 
 # but people are sometimes sad
 
@@ -300,76 +300,90 @@ Press __down__ for the conjugation table.
 
 <section>
 
-# can I have a cheeseburger
+# can I see the cat
+
+| poder | to be able to |
+
+| Posso ver um gato? | Can I see the cat? |
+| Pode-me mostrar?   | Can you show me?   |
+
+Press __down__ for the conjugation table.
 
 </section>
 <section>
 
-table
+| poder | to be able to |
+
+| I             | eu    | posso   |
+| you (sg.inf.) | tu    | podes   |
+| you (sg.pol.) | você  | pode    |
+| he            | ele   | pode    |
+| she           | ela   | pode    |
+| we            | nós   | podemos |
+| you (pl.inf.) | vocês | podem   |
+| you (pl.pol.) | vós   | podeis  |
+| they (m.)     | eles  | podem   |
+| they (f.)     | elas  | podem   |
 
 </section>
 
 </section>
 <section data-transition="linear">
 
-# about
+# with, without
 
-# with / without
-
-# would you like
-
-# too
+| com limão  | with lemon    |
+| sem açúcar | without sugar |
 
 </section>
 <section data-transition="linear">
 
-# a book about this town
+<section>
+
+# a book about the village
 
 - Hello. How are you?
-- Olá. Como estás?
+- {:.fragment} Olá. Como estás?
 
-- I'm fine. And you?
-- Estou bem. E tu?
- 
-- I'm not very well. It is very cold today. Do you have a minute? May I come in?
-- Estou não muito bem. Está muito frio hoje. Tem um minuto? Posso entrar?
+- {:.fragment} I'm fine. And you?
+- {:.fragment} Estou bem. E tu?
 
-- Yes, come in. Do you want a coffee?
-- Sim, entre. Quer um café?
+- {:.fragment} I'm not very well. It is very cold today. Do you have a minute? May I come in?
+- {:.fragment} Estou não muito bem. Está muito frio hoje. Tem um minuto? Posso entrar?
 
-- Yes, thank you. With two sugars please. 
-- Sim, obrigado. Com dois açúcares por favor.
+- {:.fragment} Yes, come in. Do you want a coffee?
+- {:.fragment} Sim, entre. Quer um café?
 
-- Here you are. Careful, this is very hot.
-- Thank you. Hot coffee is good. Do you have a book about this town?
-- I have. This is a book with many photos. It is a good book, but it is old.
-- Can I see?
-- Sure. Here you are.
-- Here is the beach, and here is the old port.
-- Yes. That beach is beautiful.
-- This is a beautiful town. Thank you. See you tomorrow.
-- You're welcome. See you tomorrow.
+- {:.fragment} Yes, thank you. Without sugar, please.
+- {:.fragment} Sim, obrigado. Sem açúcar, por favor.
+
+- {:.fragment} Here you are. Careful, it is very hot.
+- {:.fragment} Aqui está. Atenção, e muito quente.
+
+(continue __down__)
 
 </section>
-<section data-transition="zoom">
+<section>
 
-# Phrases
+- Thank you. Hot coffee is good. Do you have a book about the village?
+- {:.fragment} Obrigado. Café quente está bem. Tem um livro cerca de a aldeia?
 
-| Olá.                    | Hello.                        |
-| Adeus.                  | Goodbye.                      |
-| Por favor.              | Please.                       |
-| Obrigado. (m.)          | Thank you.                    |
-| Obrigada. (f.)          |                               |
-| De nada.                | You're welcome.               |
-| Sim / Não               | Yes / No                      |
-| Faz favor!              | Excuse me. (to get attention) |
-| Com licença.            | Excuse me. (to get past)      |
-| Desculpe.               | Sorry.                        |
-| Entendo.                | I understand.                 |
-| Não entendo.            | I don't understand.           |
-| Um momento, por favor.  | One moment, please.           |
-| Socorro!                | Help!                         |
-| Onde é a casa de banho? | Where is the toilet?          |
+- {:.fragment} I have a book with many photos. It is a good book, but it is old.
+- {:.fragment} Tenho um livro com muita fotos. Livro e bem, mas e velho.
+
+- {:.fragment} Can I see it?
+- {:.fragment} Posso ver?
+
+- {:.fragment} Sure. Look at this.
+- {:.fragment} Está bem. Veja esta.
+
+- {:.fragment} It is a beautiful village. Thank you. See you tomorrow.
+- {:.fragment} E a aldeia bonita. Obrigado. Até amanhã.
+
+- {:.fragment} You're welcome. See you tomorrow.
+- {:.fragment} De nada. Até amanhã.
+
+</section>
 
 </section>
 <section data-transition="zoom" data-background="#008800">
