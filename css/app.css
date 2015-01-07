@@ -12,6 +12,7 @@
 
 .reveal ul li { list-style-type: none; }
 .reveal ul li p { margin-top: 0; margin-left: 0; }
+.reveal ul.list li { list-style-type: disc; }
 
 .reveal .sentences table { width: 100%; }
 .reveal .sentences table td { width: 50%; }

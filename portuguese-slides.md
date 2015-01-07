@@ -1,9 +1,9 @@
 
 <section class="centering" data-transition="zoom" data-background="#913B11">
 
-# Learn Portuguese
+# Learn Portuguese The Hard Way
 
-__Space__ or __left__ for next step
+press __space__
 
 - {:.fragment} I would like a coffee, please.
 - {:.fragment} Queira um café, por favor.
@@ -11,48 +11,33 @@ __Space__ or __left__ for next step
 ----
 {:style="margin-top: 5em;"}
 
-*Note:* These slides are about learning European Portuguese.
+*Note:* These slides are about European Portuguese.
 {:style="font-size: 0.8em; text-align: left;"}
 
-This is a work-in-progress. Watch the [repo](https://github.com/profound-labs/learn-portuguese) or the [commits feed](https://github.com/profound-labs/learn-portuguese/commits/gh-pages.atom) for updates.
+This is a work-in-progress. Watch the [repo](https://github.com/profound-labs/learn-portuguese-the-hard-way) or the [commits feed](https://github.com/profound-labs/learn-portuguese-the-hard-way/commits/gh-pages.atom) for updates.
 {:style="font-size: 0.8em; text-align: left;"}
-
-</section>
-<section>
-
-<section data-transition="zoom">
-
-Press __down__ for the cheat sheet.
-
-Press __ESC__ to zoom out and jump between slides.
-
-</section>
-<section data-transition="default" data-background="#007777">
-
-|           |           | need         | want        |
-|           |           | precis*ar*   | quer*er*    |
-|           |           | (regular)    | (irregular) |
-|-----------+-----------+--------------+-------------|
-| I         | Eu        | precis*o*    | quer*o*     |
-| You       | Tu        | presis*as*   | quer*es*    |
-| He/She    | Ele/Ela   | precis*a*    | quer        |
-| We        | Nós       | precis*amos* | quer*emos*  |
-| You (pl.) | Vós       | precis*am*   | quer*em*    |
-| They      | Eles/Elas | precis*am*   | quer*em*    |
-
-</section>
 
 </section>
 <section data-transition="zoom">
 
-<section>
+TODO
+
+Learn X The Hard Way philosophy: ...
+
+__Space__ or __right__ for next step, __ESC__ to zoom out
+
+Sometimes there is Down.
+
+Download this in a .zip
+
+</section>
+<section data-transition="zoom">
 
 # a, an, some, the
 
 Nouns are either masculine or femininine, singular or plural.
 
-There are different forms of 'a / an', 'some' and 'the' which have
-to agree in gender with the noun.
+The 'a / an', 'some' and 'the' have to agree in gender with the noun.
 
 | a coffee     | um café (m.)          |
 | some coffees | uns cafés (m.pl.)     |
@@ -70,35 +55,20 @@ to agree in gender with the noun.
 | the spoons  | as colheres (f.pl.) |
 {:.fragment}
 
-Press __down__ for a summary table.
-
-</section>
-<section>
-
-| a coffee     | um café (m.)          |
-| some coffees | uns cafés (m.pl.)     |
-| a spoon      | uma colher (f.)       |
-| some spoons  | umas colheres (f.pl.) |
-
-----
-
-| the coffee  | o café (m.)         |
-| the coffees | os cafés (m.pl.)    |
-| the spoon   | a colher (f.)       |
-| the spoons  | as colheres (f.pl.) |
-
-</section>
-
 </section>
 <section data-transition="linear">
 
+<section>
+
 <div class="sentences">
 
-# To want - querer
+# To want
 
-| He wants a coffee. | Ele quer um café. |
+| I want a coffee.   | Eu quero um café.  |
+| You want a coffee. | Tu queres um café. |
+| He wants a coffee. | Ele quer um café.  |
 
-Negation is simple -- just insert *não*.
+Insert *não* to negate.
 {:.fragment}
 
 | He doesn't want a coffee. | Ele não quer um café. |
@@ -118,6 +88,26 @@ Questions can be of the same form, with a raised tone at the end.
 
 </div>
 
+__Right__ to go on, __down__ to conjugate.
+
+</section>
+<section>
+
+| quer*er* | to want (irregular verb) |
+
+| I             | eu    | quer*o*           |
+| you (sg.inf.) | tu    | quer*er*          |
+| you (sg.pol.) | você  | quer              |
+| he            | ele   | quer              |
+| she           | ela   | quer              |
+| we            | nós   | quer*emos*        |
+| you (pl.inf.) | vocês | quer*em* (? TODO) |
+| you (pl.pol.) | vós   | quer*em*          |
+| they (m.)     | eles  | quer*em*          |
+| they (f.)     | elas  | quer*em*          |
+
+</section>
+
 </section>
 <section data-transition="linear">
 
@@ -127,7 +117,7 @@ When not talking to imaginary people in a language course, it is
 polite to make requests using *Queira* ('I would like', 'Be willing
 to') instead of *Quero* ('I want').
 
-| Queira um café, por favor. | I would like a coffee, please. |
+| I would like a coffee, please. | Queira um café, por favor. |
 
 </section>
 <section data-transition="linear">
@@ -142,39 +132,82 @@ to') instead of *Quero* ('I want').
 </section>
 <section data-transition="linear">
 
+<section>
+
 # numbers
 
-| one   | um   |
-| two   | dois |
-| three | três |
+| one   | um     |
+| two   | dois   |
+| three | três   |
+
+These will do for now. __Right__ to go on, __down__ to see 0-10.
+
+</section>
+<section>
+
+| zero  | zero   |
+| one   | um     |
+| two   | dois   |
+| three | três   |
+| four  | quatro |
+| five  | cinco  |
+| six   | seis   |
+| seven | sete   |
+| eight | oito   |
+| nine  | nove   |
+| ten   | dez    |
+
+</section>
 
 </section>
 <section data-transition="linear">
 
-# of the
+# with, without
 
-|          | masc. | fem. |
-|----------+-------+------|
-| singular | do    | da   |
-| plural   | dos   | das  |
-
-| Eu sou o irmão do Pedro.     | I am the brother of Pedro.  |
-| Eu sour a filha da Maria.    | I am the daughter of Maria. |
+| com limão  | with lemon    |
+| sem açúcar | without sugar |
 
 </section>
 <section data-transition="linear">
+
+<section>
 
 # need of the
 
-| Eu preciso dos ingredientes. | I need the ingredients.     |
+*Precisar* ('need') is used with *de* ('of'), so you say 'I (have)
+need of sth'. A few cases:
+
+| I need a coffee with milk. | Eu preciso de um café com leite.    |
+| Do you need the cups?      | Tu precisas de os copos?            |
+| We need two napkins.       | Nós precisamos de dois guardanapos. |
+
+__Right__ to go on, __down__ to conjugate.
+
+</section>
+<section>
+
+| precis*ar* | to need (regular verb) |
+
+| I             | eu    | precis*o*          |
+| you (sg.inf.) | tu    | precis*as*         |
+| you (sg.pol.) | você  | precis*a*          |
+| he            | ele   | precis*a*          |
+| she           | ela   | precis*a*          |
+| we            | nós   | precis*amos*       |
+| you (pl.inf.) | vocês | precis*a* (? TODO) |
+| you (pl.pol.) | vós   | precis*am*         |
+| they (m.)     | eles  | precis*am*         |
+| they (f.)     | elas  | precis*am*         |
+
+</section>
 
 </section>
 <section data-transition="linear">
 
 # Does she want a coffee?
 
-- I want two coffes, please.
-- {:.fragment} Quero dois cafés, por favor.
+- I would like two coffes, please.
+- {:.fragment} Queira dois cafés, por favor.
 
 - {:.fragment} Do you need a spoon?
 - {:.fragment} Precisas de uma colher?
@@ -198,13 +231,13 @@ to') instead of *Quero* ('I want').
 
 # roses are red forever
 
-| Ser | to be, related to a permanent situation |
+| Ser | to be, permanent or durable state |
 
 | Ros*as* (f.pl.) são vermelh*as* para sempre. | Roses are red forever.     |
-| É um bonit*a* prai*a* (f.).                  | (It) is a beautiful beach. |
+| É um prai*a* (f.) bonit*a*.                  | (It) is a beautiful beach. |
 | Eu sou Pedro.                                | I am Pedro.                |
 
-Press __down__ for the conjugation table.
+__Right__ to go on, __down__ to conjugate.
 
 </section>
 <section data-transition="default">
@@ -224,6 +257,7 @@ Use it for:
 
 - permanent or durable states (roses are forever red)
 - to point something out (it is a beautiful beach)
+{:.list}
 
 </section>
 
@@ -234,14 +268,14 @@ Use it for:
 
 # but people are sometimes sad
 
-| Estar | to be, related to a temporary situation |
+| Estar | to be, temporary state |
 
 | Mas pesso*as* (f.pl.) estão às vezes trist*es*. | But people are sometimes sad. |
 | A tempestade (f.) está aqui.                    | The storm is here.            |
 | Estou perdid*o*. (m.)                           | I am lost.                    |
 | Estou perdid*a*. (f.)                           | I am lost.                    |
 
-Press __down__ for the conjugation table.
+__Right__ to go on, __down__ to conjugate.
 
 </section>
 <section>
@@ -261,6 +295,7 @@ Use it for:
 
 - temporary events
 - location of things that are moveable
+{:.list}
 
 </section>
 
@@ -275,7 +310,7 @@ Use it for:
 | Tem uma gat*a*. (f.)  | You have a (female) cat. |
 | Tem?                  | Do you have (it)?        |
 
-Press __down__ for the conjugation table.
+__Right__ to go on, __down__ to conjugate.
 
 </section>
 <section>
@@ -307,7 +342,7 @@ Press __down__ for the conjugation table.
 | Posso ver um gato? | Can I see the cat? |
 | Pode-me mostrar?   | Can you show me?   |
 
-Press __down__ for the conjugation table.
+__Right__ to go on, __down__ to conjugate.
 
 </section>
 <section>
@@ -330,10 +365,11 @@ Press __down__ for the conjugation table.
 </section>
 <section data-transition="linear">
 
-# with, without
+# this and that
 
-| com limão  | with lemon    |
-| sem açúcar | without sugar |
+| este   | this (near) |
+| esse   | that (near) |
+| aquele | that (far)  |
 
 </section>
 <section data-transition="linear">
@@ -358,7 +394,7 @@ Press __down__ for the conjugation table.
 - {:.fragment} Sim, obrigado. Sem açúcar, por favor.
 
 - {:.fragment} Here you are. Careful, it is very hot.
-- {:.fragment} Aqui está. Atenção, e muito quente.
+- {:.fragment} Aqui está. Atenção, é muito quente.
 
 (continue __down__)
 
@@ -368,17 +404,17 @@ Press __down__ for the conjugation table.
 - Thank you. Hot coffee is good. Do you have a book about the village?
 - {:.fragment} Obrigado. Café quente está bem. Tem um livro cerca de a aldeia?
 
-- {:.fragment} I have a book with many photos. It is a good book, but it is old.
-- {:.fragment} Tenho um livro com muita fotos. Livro e bem, mas e velho.
+- {:.fragment} I have. This book has many photos. It is a good book, but it is old.
+- {:.fragment} Tenho. Este livro tem muita fotos. Livro é bem, mas é velho.
 
 - {:.fragment} Can I see it?
 - {:.fragment} Posso ver?
 
-- {:.fragment} Sure. Look at this.
-- {:.fragment} Está bem. Veja esta.
-
+- {:.fragment} Sure. Look at this. That is a good beach.
+- {:.fragment} Está bem. Veja este. Essa é praia bem.
+  
 - {:.fragment} It is a beautiful village. Thank you. See you tomorrow.
-- {:.fragment} E a aldeia bonita. Obrigado. Até amanhã.
+- {:.fragment} É a aldeia bonita. Obrigado. Até amanhã.
 
 - {:.fragment} You're welcome. See you tomorrow.
 - {:.fragment} De nada. Até amanhã.
