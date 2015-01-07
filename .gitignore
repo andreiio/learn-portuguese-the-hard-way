@@ -1,5 +1,6 @@
 *.swp
 *~
+cards.tsv
 .DS_Store
 .svn
 log/*.log

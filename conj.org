@@ -1,0 +1,66 @@
+
+| I             | eu    | quer*o*           |
+| you (sg.inf.) | tu    | quer*er*          |
+| you (sg.pol.) | você  | quer              |
+| he            | ele   | quer              |
+| she           | ela   | quer              |
+| we            | nós   | quer*emos*        |
+| you (pl.inf.) | vocês | quer*em* (? TODO) |
+| you (pl.pol.) | vós   | quer*em*          |
+| they (m.)     | eles  | quer*em*          |
+| they (f.)     | elas  | quer*em*          |
+
+| I             | eu    | precis*o*          |
+| you (sg.inf.) | tu    | precis*as*         |
+| you (sg.pol.) | você  | precis*a*          |
+| he            | ele   | precis*a*          |
+| she           | ela   | precis*a*          |
+| we            | nós   | precis*amos*       |
+| you (pl.inf.) | vocês | precis*a* (? TODO) |
+| you (pl.pol.) | vós   | precis*am*         |
+| they (m.)     | eles  | precis*am*         |
+| they (f.)     | elas  | precis*am*         |
+
+| I am              | eu    | sou   |
+| you (sg.inf.) are | tu    | és    |
+| you (sg.pol.) are | você  | é     |
+| he is             | ele   | é     |
+| she is            | ela   | é     |
+| we are            | nós   | somos |
+| you (pl.inf.) are | vocês | são   |
+| you (pl.pol.) are | vós   | sois  |
+| they (m.)         | eles  | são   |
+| they (f.)         | elas  | são   |
+
+| I am              | eu    | estou   |
+| you (sg.inf.) are | tu    | estás   |
+| you (sg.pol.) are | você  | está    |
+| he is             | ele   | está    |
+| she is            | ela   | está    |
+| we are            | nós   | estamos |
+| you (pl.inf.) are | vocês | estão   |
+| you (pl.pol.) are | vós   | estais  |
+| they (m.)         | eles  | estão   |
+| they (f.)         | elas  | estão   |
+
+| I             | eu    | tenho  |
+| you (sg.inf.) | tu    | tens   |
+| you (sg.pol.) | você  | tem    |
+| he            | ele   | tem    |
+| she           | ela   | tem    |
+| we            | nós   | temos  |
+| you (pl.inf.) | vocês | têm    |
+| you (pl.pol.) | vós   | tendes |
+| they (m.)     | eles  | têm    |
+| they (f.)     | elas  | têm    |
+
+| I             | eu    | posso   |
+| you (sg.inf.) | tu    | podes   |
+| you (sg.pol.) | você  | pode    |
+| he            | ele   | pode    |
+| she           | ela   | pode    |
+| we            | nós   | podemos |
+| you (pl.inf.) | vocês | podem   |
+| you (pl.pol.) | vós   | podeis  |
+| they (m.)     | eles  | podem   |
+| they (f.)     | elas  | podem   |

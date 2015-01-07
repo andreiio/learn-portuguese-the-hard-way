@@ -18,6 +18,8 @@ This is a work-in-progress. Watch the [repo](https://github.com/profound-labs/le
 {:style="font-size: 0.8em; text-align: left;"}
 
 </section>
+
+<!--
 <section data-transition="zoom">
 
 TODO
@@ -31,6 +33,8 @@ Sometimes there is Down.
 Download this in a .zip
 
 </section>
+-->
+
 <section data-transition="zoom">
 
 # a, an, some, the
@@ -164,8 +168,8 @@ These will do for now. __Right__ to go on, __down__ to see 0-10.
 
 # with, without
 
-| com limão  | with lemon    |
-| sem açúcar | without sugar |
+| with lemon    | com limão  |
+| without sugar | sem açúcar |
 
 </section>
 <section data-transition="linear">
@@ -233,9 +237,9 @@ __Right__ to go on, __down__ to conjugate.
 
 | Ser | to be, permanent or durable state |
 
-| Ros*as* (f.pl.) são vermelh*as* para sempre. | Roses are red forever.     |
-| É um prai*a* (f.) bonit*a*.                  | (It) is a beautiful beach. |
-| Eu sou Pedro.                                | I am Pedro.                |
+| Roses are red forever.     | Ros*as* (f.pl.) são vermelh*as* para sempre. |
+| (It) is a beautiful beach. | É um prai*a* (f.) bonit*a*.                  |
+| I am Pedro.                | Eu sou Pedro.                                |
 
 __Right__ to go on, __down__ to conjugate.
 
@@ -270,10 +274,10 @@ Use it for:
 
 | Estar | to be, temporary state |
 
-| Mas pesso*as* (f.pl.) estão às vezes trist*es*. | But people are sometimes sad. |
-| A tempestade (f.) está aqui.                    | The storm is here.            |
-| Estou perdid*o*. (m.)                           | I am lost.                    |
-| Estou perdid*a*. (f.)                           | I am lost.                    |
+| But people are sometimes sad. | Mas pesso*as* (f.pl.) estão às vezes trist*es*. |
+| The storm is here.            | A tempestade (f.) está aqui.                    |
+| I am lost.                    | Estou perdid*o*. (m.)                           |
+| I am lost.                    | Estou perdid*a*. (f.)                           |
 
 __Right__ to go on, __down__ to conjugate.
 
@@ -306,16 +310,16 @@ Use it for:
 
 # I have a cat
 
-| Tenho um gat*o*. (m.) | I have a (male) cat.     |
-| Tem uma gat*a*. (f.)  | You have a (female) cat. |
-| Tem?                  | Do you have (it)?        |
+| I have a (male) cat.     | Tenho um gat*o*. (m.) |
+| You have a (female) cat. | Tem uma gat*a*. (f.)  |
+| Do you have (it)?        | Tem?                  |
 
 __Right__ to go on, __down__ to conjugate.
 
 </section>
 <section>
 
-| ter | to have |
+| ter | to have (irregular verb) |
 
 | I             | eu    | tenho  |
 | you (sg.inf.) | tu    | tens   |
@@ -337,10 +341,10 @@ __Right__ to go on, __down__ to conjugate.
 
 # can I see the cat
 
-| poder | to be able to |
+| poder | to be able to (irregular verb) |
 
-| Posso ver um gato? | Can I see the cat? |
-| Pode-me mostrar?   | Can you show me?   |
+| Can I see the cat? | Posso ver um gato? |
+| Can you show me?   | Pode-me mostrar?   |
 
 __Right__ to go on, __down__ to conjugate.
 
@@ -367,9 +371,9 @@ __Right__ to go on, __down__ to conjugate.
 
 # this and that
 
-| este   | this (near) |
-| esse   | that (near) |
-| aquele | that (far)  |
+| this (near) | este   |
+| that (near) | esse   |
+| that (far)  | aquele |
 
 </section>
 <section data-transition="linear">

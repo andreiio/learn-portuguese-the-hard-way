@@ -1,0 +1,110 @@
+| Front                                                             | Back                                                      | Tags      |
+|-------------------------------------------------------------------+-----------------------------------------------------------+-----------|
+| cold                                                              | frio                                                      | chapter-1 |
+| today                                                             | hoje                                                      | chapter-1 |
+| minute                                                            | minuto (m.)                                               | chapter-1 |
+| coffee                                                            | café (m.)                                                 | chapter-1 |
+| sugar                                                             | açúcar (m.)                                               | chapter-1 |
+| here                                                              | aqui                                                      | chapter-1 |
+| very                                                              | muito                                                     | chapter-1 |
+| hot                                                               | quente                                                    | chapter-1 |
+| book                                                              | livro (m.)                                                | chapter-1 |
+| about                                                             | TODO cerca de...                                          | chapter-1 |
+| village                                                           | aldeia (f.)                                               | chapter-1 |
+| photo                                                             | foto (f.)                                                 | chapter-1 |
+| good                                                              | bem                                                       | chapter-1 |
+| old                                                               | velho                                                     | chapter-1 |
+| beautiful                                                         | bonito                                                    | chapter-1 |
+| a coffee                                                          | um café (m.)                                              | chapter-1 |
+| some coffees                                                      | uns cafés (m.pl.)                                         | chapter-1 |
+| a spoon                                                           | uma colher (f.)                                           | chapter-1 |
+| some spoons                                                       | umas colheres (f.pl.)                                     | chapter-1 |
+| the coffee                                                        | o café (m.)                                               | chapter-1 |
+| the coffees                                                       | os cafés (m.pl.)                                          | chapter-1 |
+| the spoon                                                         | a colher (f.)                                             | chapter-1 |
+| the spoons                                                        | as colheres (f.pl.)                                       | chapter-1 |
+| I want a coffee.                                                  | Eu quero um café.                                         | chapter-1 |
+| You want a coffee.                                                | Tu queres um café.                                        | chapter-1 |
+| He wants a coffee.                                                | Ele quer um café.                                         | chapter-1 |
+| He doesn't want a coffee.                                         | Ele não quer um café.                                     | chapter-1 |
+| Does he want a coffee?                                            | Ele quer um café?                                         | chapter-1 |
+| (Do you) want a coffee?                                           | (O senhor) quer um café?                                  | chapter-1 |
+| Please                                                            | Por favor                                                 | chapter-1 |
+| Yes                                                               | Sim                                                       | chapter-1 |
+| No                                                                | Não                                                       | chapter-1 |
+| to want (irregular verb)                                          | querer                                                    | chapter-1 |
+| I would like a coffee, please.                                    | Queira um café, por favor.                                | chapter-1 |
+| zero                                                              | zero                                                      | chapter-1 |
+| one                                                               | um                                                        | chapter-1 |
+| two                                                               | dois                                                      | chapter-1 |
+| three                                                             | três                                                      | chapter-1 |
+| four                                                              | quatro                                                    | chapter-1 |
+| five                                                              | cinco                                                     | chapter-1 |
+| six                                                               | seis                                                      | chapter-1 |
+| seven                                                             | sete                                                      | chapter-1 |
+| eight                                                             | oito                                                      | chapter-1 |
+| nine                                                              | nove                                                      | chapter-1 |
+| ten                                                               | dez                                                       | chapter-1 |
+| coffee and ice cream                                              | café e gelado                                             | chapter-1 |
+| because                                                           | porque                                                    | chapter-1 |
+| but                                                               | mas                                                       | chapter-1 |
+| for                                                               | para                                                      | chapter-1 |
+| with lemon                                                        | com limão                                                 | chapter-1 |
+| without sugar                                                     | sem açúcar                                                | chapter-1 |
+| I need a coffee with milk.                                        | Eu preciso de um café com leite.                          | chapter-1 |
+| Do you need the cups?                                             | Tu precisas de os copos?                                  | chapter-1 |
+| We need two napkins.                                              | Nós precisamos de dois guardanapos.                       | chapter-1 |
+| I need a coffee with milk.                                        | Eu preciso de um café com leite.                          | chapter-1 |
+| Do you need the cups?                                             | Tu precisas de os copos?                                  | chapter-1 |
+| We need two napkins.                                              | Nós precisamos de dois guardanapos.                       | chapter-1 |
+| to need (regular verb)                                            | precisar                                                  | chapter-1 |
+| I would like two coffes, please.                                  | Queira dois cafés, por favor.                             | chapter-1 |
+| Do you need a spoon?                                              | Precisas de uma colher?                                   | chapter-1 |
+| Yes, I need a spoon.                                              | Sim, preciso de uma colher.                               | chapter-1 |
+| Does she want a coffee?                                           | Ela quer um café?                                         | chapter-1 |
+| She doesn't want (it), because she wants a cake and an ice cream. | Ela não quer, porque quer um bolo e um gelado.            | chapter-1 |
+| But we need three spoons for the ice cream and the coffees.       | Mas precisamos de três colheres para o gelado e os cafés. | chapter-1 |
+| to be, permanent or durable state                                 | Ser                                                       | chapter-1 |
+| Roses are red forever.                                            | Rosas (f.pl.) são vermelhas para sempre.                  | chapter-1 |
+| (It) is a beautiful beach.                                        | É um praia (f.) bonita.                                   | chapter-1 |
+| I am Pedro.                                                       | Eu sou Pedro.                                             | chapter-1 |
+| to be, temporary state                                            | Estar                                                     | chapter-1 |
+| But people are sometimes sad.                                     | Mas pessoas (f.pl.) estão às vezes tristes.               | chapter-1 |
+| The storm is here.                                                | A tempestade (f.) está aqui.                              | chapter-1 |
+| I am lost. (m.)                                                   | Estou perdido. (m.)                                       | chapter-1 |
+| I am lost. (f.)                                                   | Estou perdida. (f.)                                       | chapter-1 |
+| I have a (male) cat.                                              | Tenho um gato. (m.)                                       | chapter-1 |
+| You have a (female) cat.                                          | Tem uma gata. (f.)                                        | chapter-1 |
+| Do you have (it)?                                                 | Tem?                                                      | chapter-1 |
+| to have (irregular verb)                                          | ter                                                       | chapter-1 |
+| to be able to (irregular verb)                                    | poder                                                     | chapter-1 |
+| Can I see the cat?                                                | Posso ver um gato?                                        | chapter-1 |
+| Can you show me?                                                  | Pode-me mostrar?                                          | chapter-1 |
+| this (near)                                                       | este                                                      | chapter-1 |
+| that (near)                                                       | esse                                                      | chapter-1 |
+| that (far)                                                        | aquele                                                    | chapter-1 |
+| Hello. How are you?                                               | Olá. Como estás?                                          | chapter-1 |
+| I'm fine. And you?                                                | Estou bem. E tu?                                          | chapter-1 |
+| I'm not very well.                                                | Estou não muito bem.                                      | chapter-1 |
+| It is very cold today.                                            | Está muito frio hoje.                                     | chapter-1 |
+| Do you have a minute?                                             | Tem um minuto?                                            | chapter-1 |
+| May I come in?                                                    | Posso entrar?                                             | chapter-1 |
+| Come in.                                                          | Entre.                                                    | chapter-1 |
+| Do you want a coffee?                                             | Quer um café?                                             | chapter-1 |
+| Thank you                                                         | Obrigado (m.) / Obrigada (f.)                             | chapter-1 |
+| Without sugar, please.                                            | Sem açúcar, por favor.                                    | chapter-1 |
+| Here you are.                                                     | Aqui está.                                                | chapter-1 |
+| Careful, it is very hot.                                          | Atenção, é muito quente.                                  | chapter-1 |
+| Hot coffee is good.                                               | Café quente está bem.                                     | chapter-1 |
+| Do you have a book about the village?                             | Tem um livro cerca de a aldeia?                           | chapter-1 |
+| I have.                                                           | Tenho.                                                    | chapter-1 |
+| This book has many photos.                                        | Este livro tem muita fotos.                               | chapter-1 |
+| It is a good book, but it is old.                                 | Livro é bem, mas é velho.                                 | chapter-1 |
+| Can I see it?                                                     | Posso ver?                                                | chapter-1 |
+| Sure!                                                             | Está bem.                                                 | chapter-1 |
+| Look at this.                                                     | Veja este.                                                | chapter-1 |
+| That is a good beach.                                             | Essa é praia bem.                                         | chapter-1 |
+| It is a beautiful village.                                        | É a aldeia bonita.                                        | chapter-1 |
+| See you tomorrow. (Until tomorrow)                                | Até amanhã.                                               | chapter-1 |
+| You're welcome.                                                   | De nada.                                                  | chapter-1 |
+| See you tomorrow.                                                 | Até amanhã.                                               | chapter-1 |
