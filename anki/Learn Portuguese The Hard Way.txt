@@ -1,0 +1,105 @@
+cold	frio[sound:frio.mp3]	chapter-1
+today	hoje[sound:hoje.mp3]	chapter-1
+minute	minuto (m.)[sound:minuto.mp3]	chapter-1
+coffee	café (m.)[sound:café.mp3]	chapter-1
+sugar	açúcar (m.)[sound:açúcar.mp3]	chapter-1
+here	aqui[sound:aqui.mp3]	chapter-1
+very	muito[sound:muito.mp3]	chapter-1
+hot	quente[sound:quente.mp3]	chapter-1
+book	livro (m.)[sound:livro.mp3]	chapter-1
+about the book	sobre o livro[sound:sobre-o-livro.mp3]	chapter-1
+hamlet	aldeia (f.)[sound:aldeia.mp3]	chapter-1
+photo	foto (f.)[sound:foto.mp3]	chapter-1 retake
+good	bem[sound:bem.mp3]	chapter-1
+old	velho[sound:velho.mp3]	chapter-1
+beautiful	bonito[sound:bonito.mp3]	chapter-1
+a coffee	um café (m.)[sound:um-café.mp3]	chapter-1
+some coffees	uns cafés (m.pl.)[sound:uns-cafés.mp3]	chapter-1
+a spoon	uma colher (f.)[sound:uma-colher.mp3]	chapter-1 retake
+some spoons	umas colheres (f.pl.)[sound:umas-colheres.mp3]	chapter-1
+the coffee	o café (m.)[sound:o-café.mp3]	chapter-1
+the coffees	os cafés (m.pl.)[sound:os-cafés.mp3]	chapter-1
+the spoon	a colher (f.)[sound:a-colher.mp3]	chapter-1
+the spoons	as colheres (f.pl.)[sound:as-colheres.mp3]	chapter-1
+I want a coffee.	Eu quero um café.[sound:eu-quero-um-café.mp3]	chapter-1
+You want a coffee.	Tu queres um café.[sound:tu-queres-um-café.mp3]	chapter-1
+He wants a coffee.	Ele quer um café.[sound:ele-quer-um-café.mp3]	chapter-1
+He doesn't want a coffee.	Ele não quer um café.[sound:ele-não-quer-um-café.mp3]	chapter-1
+Does he want a coffee?	Ele quer um café?[sound:ele-quer-um-café-Q.mp3]	chapter-1
+(Do you) want a coffee?	(O senhor) quer um café?[sound:o-senhor-quer-um-café-Q.mp3]	chapter-1 retake
+Please	Por favor[sound:por-favor.mp3]	chapter-1
+Yes	Sim[sound:sim.mp3]	chapter-1
+No	Não[sound:não.mp3]	chapter-1
+to want (irregular verb)	querer[sound:querer.mp3]	chapter-1
+Maybe he would like a coffee.	Talvez ele queira um café.[sound:talvez-ele-queira-um-café.mp3]	chapter-1
+zero	zero[sound:zero.mp3]	chapter-1
+one	um[sound:um.mp3]	chapter-1
+two	dois[sound:dois.mp3]	chapter-1
+three	três[sound:três.mp3]	chapter-1
+four	quatro[sound:quatro.mp3]	chapter-1
+five	cinco[sound:cinco.mp3]	chapter-1
+six	seis[sound:seis.mp3]	chapter-1
+seven	sete[sound:sete.mp3]	chapter-1
+eight	oito[sound:oito.mp3]	chapter-1
+nine	nove[sound:nove.mp3]	chapter-1
+ten	dez[sound:dez.mp3]	chapter-1
+coffee and ice cream	café e gelado[sound:café-e-gelado.mp3]	chapter-1
+because	porque[sound:porque.mp3]	chapter-1
+but	mas[sound:mas.mp3]	chapter-1
+for	para[sound:para.mp3]	chapter-1
+with lemon	com limão[sound:com-limão.mp3]	chapter-1
+without sugar	sem açúcar[sound:sem-açúcar.mp3]	chapter-1
+I need a coffee with milk.	Eu preciso de um café com leite.[sound:eu-preciso-de-um-café-com-leite.mp3]<div><br /></div>	chapter-1
+Do you need the cups?	Precisas dos copos?[sound:precisas-dos-copos-Q.mp3]	chapter-1
+We need two napkins.	Precisamos de dois guardanapos.[sound:precisamos-de-dois-guardanapos.mp3]	chapter-1
+to need (regular verb)	precisar[sound:precisar.mp3]	chapter-1
+I would like two coffes, please.	Queria dois cafés, por favor.[sound:queria-dois-cafés-por-favor.mp3]	chapter-1
+Do you need a spoon? (inf.)	Precisas de uma colher?[sound:precisas-de-uma-colher-Q.mp3]	chapter-1
+Yes, I need a spoon.	Sim, preciso de uma colher.[sound:sim-preciso-de-uma-colher.mp3]	chapter-1
+Does she want a coffee?	Ela quer um café?[sound:ela-quer-um-café-Q.mp3]	chapter-1
+She doesn't want (it), because she prefers a cake and an ice cream.	Ela não quer, porque prefere um bolo e um gelado.[sound:ele-não-quer-porque-prefere-um-bolo-e-um-gelado.mp3]	chapter-1
+But we need three spoons for the ice cream and the coffees.	Mas precisamos de três colheres para o gelado e os cafés.[sound:mas-precisamos-de-três-colheres-para-o-gelado-e-os-cafés.mp3]	chapter-1
+to be, permanent or durable state	Ser[sound:ser.mp3]	chapter-1
+Roses are red forever.	Rosas (f.pl.) são vermelhas para sempre.[sound:rosas-sao-vermelhas-para-sempre.mp3]	chapter-1
+(It) is a beautiful beach.	É um praia (f.) bonita.[sound:é-um-praia-bonita.mp3]	chapter-1
+I am Pedro.	Eu sou o Pedro.[sound:eu-sou-o-pedro.mp3]	chapter-1
+to be, temporary state	Estar[sound:estar.mp3]	chapter-1
+But now people are sad.	Mas agora as pessoas (f.pl.) estão&nbsp;tristes.[sound:mas-agora-as-pessoas-estão-tristes.mp3]	chapter-1
+The storm is here.	A tempestade (f.) está aqui.[sound:a-tempestade-está-aqui.mp3]	chapter-1
+I am lost. (m.)	Estou perdido. (m.)[sound:estou-perdido.mp3]	chapter-1
+I have a (male) cat.	Tenho um gato. (m.)[sound:tenho-um-gato.mp3]	chapter-1
+You have a (female) cat.	Tem uma gata. (f.)[sound:tem-uma-gata.mp3]	chapter-1
+Do you have (it)?	Tem?[sound:tem-Q.mp3]	chapter-1
+to have (irregular verb)	ter[sound:ter.mp3]	chapter-1
+to be able to (irregular verb)	poder[sound:poder.mp3]	chapter-1
+Can I see the cat?	Posso ver um gato?[sound:posso-ver-um-gato-Q.mp3]	chapter-1
+Can you show me?	Pode mostrar-me?[sound:pode-mostrar-me-Q.mp3]	chapter-1
+this (near)	este[sound:este.mp3]	chapter-1
+that (near)	esse[sound:esse.mp3]	chapter-1
+that (far)	aquele[sound:aquele.mp3]	chapter-1
+Hello. How are you?	Olá. Como estás?[sound:olá-como-estás-Q.mp3]	chapter-1
+I'm fine. And you?	Estou bem. E tu?[sound:estou-bem-e-tu-Q.mp3]	chapter-1
+I'm not very well.	Não estou muito bem.[sound:não-estou-muito-bem.mp3]	chapter-1
+It is very cold today.	Está muito frio hoje.[sound:está-muito-frio-hoje.mp3]	chapter-1
+Do you have a minute?	Tem um minuto?[sound:tem-um-minuto-Q.mp3]	chapter-1 retake
+May I come in?	Posso entrar?[sound:posso-entrar-Q.mp3]	chapter-1
+Come in.	Entre.[sound:entre.mp3]	chapter-1
+Do you want a coffee?	Quer um café?[sound:quer-um-café-Q.mp3]	chapter-1
+Thank you	Obrigado (m.)[sound:obrigado.mp3]	chapter-1
+Without sugar, please.	Sem açúcar, por favor.[sound:sem-açúcar-por-favor.mp3]	chapter-1
+Here you are.	Aqui está.[sound:aqui-está.mp3]	chapter-1
+Careful, it is very hot.	Cuidado, está muito quente.[sound:cuidado-esta-muito-quente.mp3]	chapter-1
+Hot coffee is good.	Café quente está bem.[sound:café-quente-está-bem.mp3]	chapter-1
+Do you have a book about the hamlet?	Tem um livro sobre a aldeia?[sound:tem-um-livro-sobre-a-aldeia-Q.mp3]	chapter-1
+I have.	Tenho.[sound:tenho.mp3]	chapter-1
+This book has many photos.	Este livro tem muita fotos.[sound:este-livro-tem-muita-fotos.mp3]	chapter-1
+It is a good book, but it is old.	É um bom livro, mas é antigo.[sound:é-um-bom-livro-mas-é-antigo.mp3]	chapter-1
+Can I see it?	Posso ver?[sound:posso-ver-Q.mp3]	chapter-1
+Sure!	Concerteza.[sound:concerteza.mp3]	chapter-1
+Look at this. (inf.)	Olha para isto.[sound:olha-para-isto.mp3]	chapter-1
+That is a good beach.	Aquela é uma boa praia.[sound:aquela-é-uma-boa-praia.mp3]	chapter-1
+It is a beautiful hamlet.	É uma aldeia bonita.[sound:é-uma-aldeia-bonita.mp3]	chapter-1
+See you tomorrow. (Until tomorrow)	Até amanhã.[sound:até-amanhã.mp3]	chapter-1
+You're welcome.	De nada.[sound:de-nada.mp3]	chapter-1
+<div>- I would like two coffes, please.</div><div>- Do you need a spoon?</div><div>- Yes, I need a spoon.</div><div>- Does she want a coffee?</div><div>- She doesn't want (it), because she prefers a cake and an ice cream.</div><div>- But we need three spoons for the ice cream and the coffees.</div>	<div>- Queria dois cafés, por favor.</div><div><div><div>- Precisas de uma colher?</div><div>- Sim, preciso de uma colher.</div><div>- Ela quer um café?</div><div>- Ela não quer, porque prefere um bolo e um gelado.</div><div>- Mas precisamos de três colheres para o gelado e os cafés.[sound:chapter-1-dialogue-1.mp3]</div></div></div>	chapter-1 dialogue
+<div>- Hello. How are you?</div><div><div>- I'm fine. And you?</div><div>- I'm not very well. It is very cold today. Do you have a minute? May I come in?</div><div>- Yes, come in. Do you want a coffee?</div><div>- Yes, thank you. Without sugar, please.</div><div>- Here you are. Careful, it is very hot.</div><div>- Thank you. Hot coffee is good. Do you have any book about the hamlet?</div><div>- I have. This book has many photos. It is a good book, but it is old.</div><div>- Can I see it?</div><div>- Sure. Look at this. That is a good beach.</div><div>- It is a beautiful village. Thank you. See you tomorrow.</div><div>- You're welcome. See you tomorrow.</div></div>	<div>- Olá. Como estás?</div><div>- Estou bem. E tu?</div><div>- Não estou muito bem. Está muito frio hoje. Tens um minuto? Posso entrar?</div><div>- Sim, entra. Queres um café?</div><div>- Sim, obrigado. Sem açúcar, por favor.</div><div>- Aqui está. Cuidado, está muito quente.</div><div>- Obrigado. Café quente está bem. Tens algum livro sobre a aldeia?</div><div>- Tenho. Este livro tem muita fotos. O livro é bom, mas é antigo.</div><div>- Posso ver?</div><div>- Está bem. Olha para isto. Essa é uma boa praia.</div><div>- É uma aldeia bonita. Obrigado. Até amanhã.</div><div>- De nada. Até amanhã.[sound:chapter-1-dialogue-2.mp3]</div>	chapter-1 dialogue
