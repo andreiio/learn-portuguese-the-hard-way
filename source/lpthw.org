@@ -1,0 +1,7 @@
+#+TITLE: Learn Portuguese The Hard Way
+#+SETUPFILE: chapters/lpthw-setup.org
+
+#+INCLUDE: chapters/title-slide.org :minlevel 1
+#+INCLUDE: chapters/philosophy.org :minlevel 1
+#+INCLUDE: chapters/chapter-1.org :minlevel 1
+#+INCLUDE: chapters/chapter-2.org :minlevel 1

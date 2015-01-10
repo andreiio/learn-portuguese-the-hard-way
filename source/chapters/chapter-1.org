@@ -1,0 +1,332 @@
+
+* Chapter One
+** A, An, Some, The
+
+Nouns are either masculine or femininine, singular or plural.
+
+The 'a / an', 'some' and 'the' have to agree in gender with the noun.
+
+#+ATTR_REVEAL: :frag t
+| a coffee     | um café (m.)          |
+| some coffees | uns cafés (m.pl.)     |
+
+#+ATTR_REVEAL: :frag t
+| a spoon     | uma colher (f.)       |
+| some spoons | umas colheres (f.pl.) |
+
+#+ATTR_REVEAL: :frag t
+| the coffee  | o café (m.)         |
+| the coffees | os cafés (m.pl.)    |
+
+#+ATTR_REVEAL: :frag t
+| the spoon   | a colher (f.)       |
+| the spoons  | as colheres (f.pl.) |
+
+** To Want
+
+#+REVEAL_HTML: <div class="sentences">
+
+| I want a coffee.   | Eu quero um café.  |
+| You want a coffee. | Tu queres um café. |
+| He wants a coffee. | Ele quer um café.  |
+
+#+ATTR_REVEAL: :frag t
+Insert /não/ to negate.
+
+#+ATTR_REVEAL: :frag t
+| He doesn't want a coffee. | Ele não quer um café. |
+
+#+ATTR_REVEAL: :frag t
+Questions can be of the same form, with a raised tone at the end.
+
+#+ATTR_REVEAL: :frag t
+| Does he want a coffee?  | Ele quer um café?        |
+| (Do you) want a coffee? | (O senhor) quer um café? |
+
+#+ATTR_REVEAL: :frag t
+| Please | Por favor |
+| Yes    | Sim       |
+| No     | Não       |
+
+#+REVEAL_HTML: </div>
+
+*Right* to go on, *down* to conjugate.
+
+*** Querer
+ 
+| quer/er/ | to want (irregular verb) |
+
+| I             | eu    | quer/o/           |
+| you (sg.inf.) | tu    | quer/er/          |
+| you (sg.pol.) | você  | quer              |
+| he            | ele   | quer              |
+| she           | ela   | quer              |
+| we            | nós   | quer/emos/        |
+| you (pl.inf.) | vocês | quer/em/ (? TODO) |
+| you (pl.pol.) | vós   | quer/em/          |
+| they (m.)     | eles  | quer/em/          |
+| they (f.)     | elas  | quer/em/          |
+
+** I Would Like
+
+When not talking to imaginary people in a language course, it is
+polite to make requests using /Queira/ ('I would like', 'Be willing
+to') instead of /Quero/ ('I want').
+
+| I would like a coffee, please. | Queira um café, por favor. |
+
+** And, Because, But, For
+
+| coffee and ice cream | café e gelado |
+| because              | porque        |
+| but                  | mas           |
+| for                  | para          |
+
+** Numbers
+
+| one   | um     |
+| two   | dois   |
+| three | três   |
+
+These will do for now. *Right* to go on, *down* to see 0-10.
+
+*** 0-10
+
+| zero  | zero   |
+| one   | um     |
+| two   | dois   |
+| three | três   |
+| four  | quatro |
+| five  | cinco  |
+| six   | seis   |
+| seven | sete   |
+| eight | oito   |
+| nine  | nove   |
+| ten   | dez    |
+
+** With, Without
+
+| with lemon    | com limão  |
+| without sugar | sem açúcar |
+
+** Need Of The
+
+/Precisar/ ('need') is used with /de/ ('of'), so you say 'I (have)
+need of sth'. A few cases:
+
+| I need a coffee with milk. | Eu preciso de um café com leite.    |
+| Do you need the cups?      | Tu precisas de os copos?            |
+| We need two napkins.       | Nós precisamos de dois guardanapos. |
+
+*Right* to go on, *down* to conjugate.
+
+*** precisar
+
+| precis/ar/ | to need (regular verb) |
+
+| I             | eu    | precis/o/          |
+| you (sg.inf.) | tu    | precis/as/         |
+| you (sg.pol.) | você  | precis/a/          |
+| he            | ele   | precis/a/          |
+| she           | ela   | precis/a/          |
+| we            | nós   | precis/amos/       |
+| you (pl.inf.) | vocês | precis/a/ (? TODO) |
+| you (pl.pol.) | vós   | precis/am/         |
+| they (m.)     | eles  | precis/am/         |
+| they (f.)     | elas  | precis/am/         |
+
+** Does She Want A Coffee?
+
+#+ATTR_REVEAL: :frag t
+- I would like two coffes, please.
+- Queira dois cafés, por favor.
+
+#+ATTR_REVEAL: :frag t
+- Do you need a spoon?
+- Precisas de uma colher?
+
+#+ATTR_REVEAL: :frag t
+- Yes, I need a spoon.
+- Sim, preciso de uma colher.
+
+#+ATTR_REVEAL: :frag t
+- Does she want a coffee?
+- Ela quer um café?
+
+#+ATTR_REVEAL: :frag t
+- She doesn't want (it), because she wants a cake and an ice cream.
+- Ela não quer, porque quer um bolo e um gelado.
+
+#+ATTR_REVEAL: :frag t
+- But we need three spoons for the ice cream and the coffees.
+- Mas precisamos de três colheres para o gelado e os cafés.
+
+** Roses Are Red Forever
+  :PROPERTIES:
+  :reveal_background: #AC1919
+  :END:
+
+| Ser | to be, permanent or durable state |
+
+Use it for:
+
+#+ATTR_REVEAL: :class list
+- permanent or durable states (roses are forever red)
+- to point something out (it is a beautiful beach)
+
+| Roses are red forever.     | Ros/as/ (f.pl.) são vermelh/as/ para sempre. |
+| (It) is a beautiful beach. | É um prai/a/ (f.) bonit/a/.                  |
+| I am Pedro.                | Eu sou Pedro.                                |
+
+*Right* to go on, *down* to conjugate.
+
+*** ser
+
+| I am              | eu    | sou   |
+| you (sg.inf.) are | tu    | és    |
+| you (sg.pol.) are | você  | é     |
+| he is             | ele   | é     |
+| she is            | ela   | é     |
+| we are            | nós   | somos |
+| you (pl.inf.) are | vocês | são   |
+| you (pl.pol.) are | vós   | sois  |
+| they (m.)         | eles  | são   |
+| they (f.)         | elas  | são   |
+
+** But Now People Are Sad
+  :PROPERTIES:
+  :reveal_background: #1931AC
+  :END:
+
+| Estar | to be, temporary state |
+
+| But now people are sad. | Mas agora as pesso/as/ (f.pl.) estão trist/es/. |
+| The storm is here.      | A tempestade (f.) está aqui.                    |
+| I am lost.              | Estou perdid/o/. (m.)                           |
+
+*Right* to go on, *down* to conjugate.
+
+*** estar
+
+| I am              | eu    | estou   |
+| you (sg.inf.) are | tu    | estás   |
+| you (sg.pol.) are | você  | está    |
+| he is             | ele   | está    |
+| she is            | ela   | está    |
+| we are            | nós   | estamos |
+| you (pl.inf.) are | vocês | estão   |
+| you (pl.pol.) are | vós   | estais  |
+| they (m.)         | eles  | estão   |
+| they (f.)         | elas  | estão   |
+
+Use it for:
+
+#+ATTR_REVEAL: :class list
+- temporary events
+- location of things that are moveable
+
+** I Have A Cat
+
+| I have a (male) cat.     | Tenho um gat/o/. (m.) |
+| You have a (female) cat. | Tem uma gat/a/. (f.)  |
+| Do you have (it)?        | Tem?                  |
+
+*Right* to go on, *down* to conjugate.
+
+*** ter
+
+| ter | to have (irregular verb) |
+
+| I             | eu    | tenho  |
+| you (sg.inf.) | tu    | tens   |
+| you (sg.pol.) | você  | tem    |
+| he            | ele   | tem    |
+| she           | ela   | tem    |
+| we            | nós   | temos  |
+| you (pl.inf.) | vocês | têm    |
+| you (pl.pol.) | vós   | tendes |
+| they (m.)     | eles  | têm    |
+| they (f.)     | elas  | têm    |
+
+** Can I See The Cat
+
+| poder | to be able to (irregular verb) |
+
+| Can I see the cat? | Posso ver um gato? |
+| Can you show me?   | Pode-me mostrar?   |
+
+*Right* to go on, *down* to conjugate.
+
+*** poder
+
+| poder | to be able to |
+
+| I             | eu    | posso   |
+| you (sg.inf.) | tu    | podes   |
+| you (sg.pol.) | você  | pode    |
+| he            | ele   | pode    |
+| she           | ela   | pode    |
+| we            | nós   | podemos |
+| you (pl.inf.) | vocês | podem   |
+| you (pl.pol.) | vós   | podeis  |
+| they (m.)     | eles  | podem   |
+| they (f.)     | elas  | podem   |
+
+** This And That
+
+| this (near) | este   |
+| that (near) | esse   |
+| that (far)  | aquele |
+
+** A Book About The Village
+
+- Hello. How are you?
+- Olá. Como estás?
+
+#+ATTR_REVEAL: :frag t
+- I'm fine. And you?
+- Estou bem. E tu?
+
+#+ATTR_REVEAL: :frag t
+- I'm not very well. It is very cold today. Do you have a minute? May I come in?
+- Estou não muito bem. Está muito frio hoje. Tem um minuto? Posso entrar?
+
+#+ATTR_REVEAL: :frag t
+- Yes, come in. Do you want a coffee?
+- Sim, entre. Quer um café?
+
+#+ATTR_REVEAL: :frag t
+- Yes, thank you. Without sugar, please.
+- Sim, obrigado. Sem açúcar, por favor.
+
+#+ATTR_REVEAL: :frag t
+- Here you are. Careful, it is very hot.
+- Aqui está. Atenção, é muito quente.
+
+(continue *down*)
+
+#+REVEAL: split
+
+#+ATTR_REVEAL: :frag t
+- Thank you. Hot coffee is good. Do you have a book about the village?
+- Obrigado. Café quente está bem. Tem um livro cerca de a aldeia?
+
+#+ATTR_REVEAL: :frag t
+- I have. This book has many photos. It is a good book, but it is old.
+- Tenho. Este livro tem muita fotos. Livro é bem, mas é velho.
+
+#+ATTR_REVEAL: :frag t
+- Can I see it?
+- Posso ver?
+
+#+ATTR_REVEAL: :frag t
+- Sure. Look at this. That is a good beach.
+- Está bem. Veja este. Essa é praia bem.
+  
+#+ATTR_REVEAL: :frag t
+- It is a beautiful village. Thank you. See you tomorrow.
+- É a aldeia bonita. Obrigado. Até amanhã.
+
+#+ATTR_REVEAL: :frag t
+- You're welcome. See you tomorrow.
+- De nada. Até amanhã.

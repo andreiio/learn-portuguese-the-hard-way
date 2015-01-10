@@ -1,0 +1,12 @@
+
+* TODO Philosophy                                                  :noexport:
+
+TODO
+
+Learn X The Hard Way philosophy: ...
+
+*Space* or *right* for next step, *ESC* to zoom out
+
+Sometimes there is Down.
+
+Download this in a .zip

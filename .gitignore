@@ -1,6 +1,13 @@
 *.swp
 *~
-cards.tsv
+*.log
+*.aux
+*.tsv
+*.ods
+*.xlsx
+source/lpthw.tex
+source/lpthw.pdf
+source/lpthw.html
 .DS_Store
 .svn
 log/*.log

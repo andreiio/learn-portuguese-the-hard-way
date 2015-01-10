@@ -1,0 +1,22 @@
+
+* Learn Portuguese The Hard Way
+  :PROPERTIES:
+  :reveal_background: #913B11
+  :reveal_data_transition: zoom
+  :END:
+
+press *space*
+
+#+ATTR_REVEAL: :frag t
+- I would like a coffee, please.
+- Queira um café, por favor.
+
+#+REVEAL_HTML: <hr style="margin-top: 5em" />
+#+REVEAL_HTML: <div style="font-size: 0.8em; text-align: left;" />
+
+/Note:/ These slides are about European Portuguese.
+
+This is a work-in-progress. Watch the [[https://github.com/profound-labs/learn-portuguese-the-hard-way][repo]] or the [[https://github.com/profound-labs/learn-portuguese-the-hard-way/commits/gh-pages.atom][commits feed]] for updates.
+
+#+REVEAL_HTML: </div>
+
