@@ -4,7 +4,7 @@ This is a work-in-progress. Watch the [repo](https://github.com/profound-labs/le
 
 [Home](http://profound-labs.github.io/learn-portuguese-the-hard-way/)
 
-[ZIP](https://github.com/profound-labs/learn-portuguese-the-hard-way/archive/master.zip) to download everything offline
+[ZIP](https://github.com/profound-labs/learn-portuguese-the-hard-way/archive/gh-pages.zip) to download everything offline
 
 [Slides](http://profound-labs.github.io/learn-portuguese-the-hard-way/lpthw-slides.html) to study
 
