@@ -1,7 +1,0 @@
-#+OPTIONS: toc:nil num:nil email:nil title-slide:nil
-#+REVEAL_TRANS: linear
-#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Learn Portuguese The Hard Way">
-#+REVEAL_HEAD_PREAMBLE: <link rel="stylesheet" href="css/app.css">
-#+LATEX_CLASS: memoir
-#+LATEX_CLASS_OPTIONS: [11pt, oneside]
-#+LATEX_HEADER: \usepackage{lpthw}

@@ -1,15 +1,17 @@
-
 * Learn Portuguese The Hard Way
   :PROPERTIES:
   :reveal_background: #913B11
   :reveal_data_transition: zoom
   :END:
 
+#+REVEAL_HTML: <div style="text-align: center;" />
 press *space*
+#+REVEAL_HTML: </div>
 
 #+ATTR_REVEAL: :frag t
-- I would like a coffee, please.
-- Queira um café, por favor.
+- I would like two coffes, please.
+- Queria dois cafés, por favor.
+  #+REVEAL_HTML: <audio src="audio/queria-dois-cafés-por-favor.mp3" preload="auto"></audio>
 
 #+REVEAL_HTML: <hr style="margin-top: 5em" />
 #+REVEAL_HTML: <div style="font-size: 0.8em; text-align: left;" />

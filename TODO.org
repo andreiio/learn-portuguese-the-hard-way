@@ -1,4 +1,2 @@
 * Tasks
-** ox-reveal
-   - impelment =title-slide:nil= in OPTIONS string
 
