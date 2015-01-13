@@ -1,2 +1,4 @@
 * Tasks
+  - record: isto, aquele, Tens um minuto?
+  - audio renamed: rosas, cuidado
 

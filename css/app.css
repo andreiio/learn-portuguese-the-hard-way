@@ -8,8 +8,8 @@
 .reveal table td { padding-left: 1em; padding-right: 1em; }
 .reveal table td:first-child { padding-left: 0em; }
 .reveal table td:last-child { padding-right: 0em; }
-.reveal ul { padding-top: 1em; }
 
+.reveal ul { display: block; padding-top: 1em; }
 .reveal ul li { list-style-type: none; }
 .reveal ul li p { margin-top: 0; margin-left: 0; }
 .reveal ul.list li { list-style-type: disc; }
@@ -20,3 +20,47 @@
 .reveal .centering p { text-align: center; margin-top: 0; margin-left: 0; }
 .reveal .centering ul li { text-align: center; }
 
+.reveal kbd { background-color: white; color: black; }
+
+.audiojs audio { position: absolute; left: -1px; }
+.audiojs { display: inline-block; width: 36px; height: 1em; background: #404040; overflow: hidden; font-family: monospace; font-size: 1em;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #444), color-stop(0.5, #555), color-stop(0.51, #444), color-stop(1, #444));
+  background-image: -moz-linear-gradient(center top, #444 0%, #555 50%, #444 51%, #444 100%);
+  -webkit-box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.3); -moz-box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.3);
+-o-box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.3); box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.3); }
+
+.audiojs .play-pauseZ { width: 25px; height: 40px; padding: 4px 6px; margin: 0px; float: left; overflow: hidden; border-right: 1px solid #000; }
+
+.audiojs p { display: none; width: 25px; height: 40px; margin: 0px; cursor: pointer; }
+.audiojs .playZ { display: block; }
+
+.audiojs .scrubberZ { display: none; position: relative; float: left; width: 280px; background: #5a5a5a; height: 14px; margin: 10px; border-top: 1px solid #3f3f3f; border-left: 0px; border-bottom: 0px; overflow: hidden; }
+
+.audiojs .progressZ { position: absolute; top: 0px; left: 0px; height: 14px; width: 0px; background: #ccc; z-index: 1;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #ccc), color-stop(0.5, #ddd), color-stop(0.51, #ccc), color-stop(1, #ccc));
+background-image: -moz-linear-gradient(center top, #ccc 0%, #ddd 50%, #ccc 51%, #ccc 100%); }
+.audiojs .loadedZ { position: absolute; top: 0px; left: 0px; height: 14px; width: 0px; background: #000;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #222), color-stop(0.5, #333), color-stop(0.51, #222), color-stop(1, #222));
+background-image: -moz-linear-gradient(center top, #222 0%, #333 50%, #222 51%, #222 100%); }
+.audiojs .timeZ { float: left; height: 36px; line-height: 36px; margin: 0px 0px 0px 6px; padding: 0px 6px 0px 12px; border-left: 1px solid #000; color: #ddd; text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.5); }
+.audiojs .timeZ em { padding: 0px 2px 0px 0px; color: #f9f9f9; font-style: normal; }
+.audiojs .timeZ strong { padding: 0px 0px 0px 2px; font-weight: normal; }
+.audiojs .error-messageZ { float: left; display: none; margin: 0px 10px; height: 36px; width: 400px; overflow: hidden; line-height: 36px; white-space: nowrap; color: #fff;
+text-overflow: ellipsis; -o-text-overflow: ellipsis; -icab-text-overflow: ellipsis; -khtml-text-overflow: ellipsis; -moz-text-overflow: ellipsis; -webkit-text-overflow: ellipsis; }
+.audiojs .error-messageZ a { color: #eee; text-decoration: none; padding-bottom: 1px; border-bottom: 1px solid #999; white-space: wrap; }
+
+.audiojs .playZ { background: url("../js/vendor/audiojs/player-graphics.gif") -3px -7px no-repeat; }
+.audiojs .loadingZ { background: url("../js/vendor/audiojs/player-graphics.gif") -3px -37px no-repeat; }
+.audiojs .errorZ { background: url("../js/vendor/audiojs/player-graphics.gif") -3px -67px no-repeat; }
+.audiojs .pauseZ { background: url("../js/vendor/audiojs/player-graphics.gif") -3px -97px no-repeat; }
+
+.playingZ .playZ, .playingZ .loadingZ, .playingZ .errorZ { display: none; }
+.playingZ .pauseZ { display: block; }
+
+.loadingZ .playZ, .loadingZ .pauseZ, .loadingZ .errorZ { display: none; }
+.loadingZ .loadingZ { display: block; }
+
+.errorZ .timeZ, .errorZ .playZ, .errorZ .pauseZ, .errorZ .scrubberZ, .errorZ .loading { display: none; }
+.errorZ .errorZ { display: block; }
+.errorZ .play-pauseZ p { cursor: auto; }
+.errorZ .error-messageZ { display: block; }

@@ -5,53 +5,57 @@ Nouns are either masculine or femininine, singular or plural.
 
 The 'a / an', 'some' and 'the' have to agree in gender with the noun.
 
-#+ATTR_REVEAL: :frag t
-| a coffee     | um café (m.)          |
-| some coffees | uns cafés (m.pl.)     |
+#+REVEAL_HTML: <div class="sentences">
 
 #+ATTR_REVEAL: :frag t
-| a spoon     | uma colher (f.)       |
-| some spoons | umas colheres (f.pl.) |
+| a coffee     | um café (m.)      | [[audio:audio/um-café.mp3]]   |
+| some coffees | uns cafés (m.pl.) | [[audio:audio/uns-cafés.mp3]] |
 
 #+ATTR_REVEAL: :frag t
-| the coffee  | o café (m.)         |
-| the coffees | os cafés (m.pl.)    |
+| a spoon     | uma colher (f.)       | [[audio:audio/uma-colher.mp3]]    |
+| some spoons | umas colheres (f.pl.) | [[audio:audio/umas-colheres.mp3]] |
 
 #+ATTR_REVEAL: :frag t
-| the spoon   | a colher (f.)       |
-| the spoons  | as colheres (f.pl.) |
+| the coffee  | o café (m.)      | [[audio:audio/o-café.mp3]]   |
+| the coffees | os cafés (m.pl.) | [[audio:audio/os-cafés.mp3]] |
+
+#+ATTR_REVEAL: :frag t
+| the spoon  | a colher (f.)       | [[audio:audio/a-colher.mp3]]    |
+| the spoons | as colheres (f.pl.) | [[audio:audio/as-colheres.mp3]] |
+
+#+REVEAL_HTML: </div>
 
 ** To Want
 
-| quer/er/ | to want |
+| quer/er/ | to want | [[audio:audio/querer.mp3]] |
 
 #+REVEAL_HTML: <div class="sentences">
 
-| I want a coffee.   | Eu quero um café.  |
-| You want a coffee. | Tu queres um café. |
-| He wants a coffee. | Ele quer um café.  |
+| I want a coffee.   | Eu quero um café.  | [[audio:audio/eu-quero-um-café.mp3]]  |
+| You want a coffee. | Tu queres um café. | [[audio:audio/tu-queres-um-café.mp3]] |
+| He wants a coffee. | Ele quer um café.  | [[audio:audio/ele-quer-um-café.mp3]]  |
 
 #+ATTR_REVEAL: :frag t
 Insert /não/ to negate.
 
 #+ATTR_REVEAL: :frag t
-| He doesn't want a coffee. | Ele não quer um café. |
+| He doesn't want a coffee. | Ele não quer um café. | [[audio:audio/ele-não-quer-um-café.mp3]] |
 
 #+ATTR_REVEAL: :frag t
 Questions can be of the same form, with a raised tone at the end.
 
 #+ATTR_REVEAL: :frag t
-| Does he want a coffee?  | Ele quer um café?        |
-| (Do you) want a coffee? | (O senhor) quer um café? |
+| Does he want a coffee?  | Ele quer um café?        | [[audio:audio/ele-quer-um-café-Q.mp3]]      |
+| (Do you) want a coffee? | (O senhor) quer um café? | [[audio:audio/o-senhor-quer-um-café-Q.mp3]] |
 
 #+ATTR_REVEAL: :frag t
-| Please | Por favor |
-| Yes    | Sim       |
-| No     | Não       |
+| Please | Por favor | [[audio:audio/por-favor.mp3]] |
+| Yes    | Sim       | [[audio:audio/sim.mp3]]       |
+| No     | Não       | [[audio:audio/não.mp3]]       |
 
 #+REVEAL_HTML: </div>
 
-*** Querer, conjugation
+*** Querer, conjugation :noexport:
  
 | quer/er/ | to want (irregular verb) |
 
@@ -71,56 +75,56 @@ Questions can be of the same form, with a raised tone at the end.
 It is polite to make requests using /Queria/ ('I would like', 'Be
 willing to') instead of /Quero/ ('I want').
 
-| I would like a coffee, please. | Queria um café, por favor. |
+| I would like two coffes, please. | Queria dois cafés, por favor. | [[audio:audio/queria-dois-cafés-por-favor.mp3]] |
 
 ** And, Because, But, For
 
-| coffee and ice cream | café e gelado |
-| because              | porque        |
-| but                  | mas           |
-| for                  | para          |
+| coffee and ice cream | café e gelado | [[audio:audio/café-e-gelado.mp3]] |
+| because              | porque        | [[audio:audio/porque.mp3]] |
+| but                  | mas           | [[audio:audio/mas.mp3]] |
+| for                  | para          | [[audio:audio/para.mp3]] |
 
 ** Numbers
 
-| one   | um     |
-| two   | dois   |
-| three | três   |
+| one   | um   | [[audio:audio/um.mp3]] |
+| two   | dois | [[audio:audio/dois.mp3]] |
+| three | três | [[audio:audio/três.mp3]] |
 
 Keep just this much in mind for now.
 
-*** Numbers 0-10
+*** Numbers 0-10 :noexport:
 
-| zero  | zero   |
-| one   | um     |
-| two   | dois   |
-| three | três   |
-| four  | quatro |
-| five  | cinco  |
-| six   | seis   |
-| seven | sete   |
-| eight | oito   |
-| nine  | nove   |
-| ten   | dez    |
+| zero  | zero   | [[audio:audio/zero.mp3]]   |
+| one   | um     | [[audio:audio/um.mp3]]     |
+| two   | dois   | [[audio:audio/dois.mp3]]   |
+| three | três   | [[audio:audio/três.mp3]]   |
+| four  | quatro | [[audio:audio/quatro.mp3]] |
+| five  | cinco  | [[audio:audio/cinco.mp3]]  |
+| six   | seis   | [[audio:audio/seis.mp3]]   |
+| seven | sete   | [[audio:audio/sete.mp3]]   |
+| eight | oito   | [[audio:audio/oito.mp3]]   |
+| nine  | nove   | [[audio:audio/nove.mp3]]   |
+| ten   | dez    | [[audio:audio/dez.mp3]]    |
 
 ** With, Without
 
-| with lemon    | com limão  |
-| without sugar | sem açúcar |
+| with lemon    | com limão  | [[audio:audio/com-limão.mp3]]  |
+| without sugar | sem açúcar | [[audio:audio/sem-açúcar.mp3]] |
 
 ** Need Of The
 
-| precis/ar/ | to need |
+| precis/ar/ | to need | [[audio:audio/precisar.mp3]] |
 
 /Precisar/ ('need') is used with /de/ ('of'), so you say 'I (have)
 need of sth'. A few cases:
 
-| I need a coffee with milk. | Eu preciso de um café com leite. |
-| Do you need the cups?      | Precisas dos copos?              |
-| We need two napkins.       | Precisamos de dois guardanapos.  |
+| I need a coffee with milk. | Eu preciso de um café com leite. | [[audio:audio/eu-preciso-de-um-café-com-leite.mp3]] |
+| Do you need the cups?      | Precisas dos copos?              | [[audio:audio/precisas-dos-copos-Q.mp3]]            |
+| We need two napkins.       | Precisamos de dois guardanapos.  | [[audio:audio/precisamos-de-dois-guardanapos.mp3]]  |
 
-*** Precisar, conjugation
+*** Precisar, conjugation :noexport:
 
-| precis/ar/ | to need (regular verb) |
+| precis/ar/ | to need (regular verb) | [[audio:audio/precisar.mp3]] |
 
 | I             | eu    | precis/o/          |
 | you (sg.inf.) | tu    | precis/as/         |
@@ -135,36 +139,37 @@ need of sth'. A few cases:
 
 ** Does She Want A Coffee?
 
-#+ATTR_REVEAL: :frag t
 - I would like two coffes, please.
-- Queira dois cafés, por favor.
+- Queria dois cafés, por favor. [[audio:audio/queria-dois-cafés-por-favor.mp3]]
 
 #+ATTR_REVEAL: :frag t
 - Do you need a spoon?
-- Precisas de uma colher?
+- Precisas de uma colher? [[audio:audio/precisas-de-uma-colher-Q.mp3]]
 
 #+ATTR_REVEAL: :frag t
 - Yes, I need a spoon.
-- Sim, preciso de uma colher.
+- Sim, preciso de uma colher. [[audio:audio/sim-preciso-de-uma-colher.mp3]]
 
 #+ATTR_REVEAL: :frag t
 - Does she want a coffee?
-- Ela quer um café?
+- Ela quer um café? [[audio:audio/ela-quer-um-café-Q.mp3]]
 
 #+ATTR_REVEAL: :frag t
 - She doesn't want (it), because she prefers a cake and an ice cream.
-- Ela não quer, porque prefere um bolo e um gelado.
+- Ela não quer, porque prefere um bolo e um gelado. [[audio:audio/ela-não-quer-porque-prefere-um-bolo-e-um-gelado.mp3]]
 
 #+ATTR_REVEAL: :frag t
 - But we need three spoons for the ice cream and the coffees.
-- Mas precisamos de três colheres para o gelado e os cafés.
+- Mas precisamos de três colheres para o gelado e os cafés. [[audio:audio/mas-precisamos-de-três-colheres-para-o-gelado-e-os-cafés.mp3]]
+
+The complete dialog: [[audio:audio/chapter-1-dialogue-1.mp3]]
 
 ** Roses Are Red Forever
   :PROPERTIES:
   :reveal_background: #AC1919
   :END:
 
-| Ser | to be, permanent or durable state |
+| Ser | to be, permanent or durable state | [[audio:audio/ser.mp3]] |
 
 Use it for:
 
@@ -172,13 +177,13 @@ Use it for:
 - permanent or durable states (roses are forever red)
 - to point something out (it is a beautiful beach)
 
-| Roses are red forever.     | Ros/as/ (f.pl.) são vermelh/as/ para sempre. |
-| (It) is a beautiful beach. | É um prai/a/ (f.) bonit/a/.                  |
-| I am Pedro.                | Eu sou o Pedro.                              |
+| Roses are red forever.     | Ros/as/ (f.pl.) são vermelh/as/ para sempre. | [[audio:audio/rosas-são-vermelhas-para-sempre.mp3]] |
+| (It) is a beautiful beach. | É um prai/a/ (f.) bonit/a/.                  | [[audio:audio/é-um-praia-bonita.mp3]]               |
+| I am Pedro.                | Eu sou o Pedro.                              | [[audio:audio/eu-sou-o-pedro.mp3]]                  |
 
-*** Ser, conjugation
+*** Ser, conjugation :noexport:
 
-| Ser | to be, permanent or durable state |
+| Ser | to be, permanent or durable state (irregular verb) | [[audio:audio/ser.mp3]] |
 
 | I am              | eu    | sou   |
 | you (sg.inf.) are | tu    | és    |
@@ -196,15 +201,15 @@ Use it for:
   :reveal_background: #1931AC
   :END:
 
-| Estar | to be, temporary state |
+| Estar | to be, temporary state | [[audio:audio/estar.mp3]] |
 
-| But now people are sad. | Mas agora as pesso/as/ (f.pl.) estão trist/es/. |
-| The storm is here.      | A tempestade (f.) está aqui.                    |
-| I am lost.              | Estou perdid/o/. (m.)                           |
+| But now people are sad. | Mas agora as pesso/as/ (f.pl.) estão trist/es/. | [[audio:audio/mas-agora-as-pessoas-estão-tristes.mp3]] |
+| The storm is here.      | A tempestade (f.) está aqui.                    | [[audio:audio/a-tempestade-está-aqui.mp3]]             |
+| I am lost.              | Estou perdid/o/. (m.)                           | [[audio:audio/estou-perdido.mp3]]                      |
 
-*** Estar, conjugation
+*** Estar, conjugation :noexport:
 
-| Estar | to be, temporary state (irregular verb) |
+| Estar | to be, temporary state (irregular verb) | [[audio:audio/estar.mp3]] |
 
 | I am              | eu    | estou   |
 | you (sg.inf.) are | tu    | estás   |
@@ -225,15 +230,15 @@ Use it for:
 
 ** I Have A Cat
 
-| ter | to have |
+| ter | to have | [[audio:audio/ter.mp3]] |
 
-| I have a (male) cat.     | Tenho um gat/o/. (m.) |
-| You have a (female) cat. | Tem uma gat/a/. (f.)  |
-| Do you have (it)?        | Tem?                  |
+| I have a (male) cat.     | Tenho um gat/o/. (m.) | [[audio:audio/tenho-um-gato.mp3]] |
+| You have a (female) cat. | Tem uma gat/a/. (f.)  | [[audio:audio/tem-uma-gata.mp3]]  |
+| Do you have (it)?        | Tem?                  | [[audio:audio/tem-Q.mp3]]         |
 
-*** Ter, conjugation
+*** Ter, conjugation :noexport:
 
-| ter | to have (irregular verb) |
+| ter | to have (irregular verb) | [[audio:audio/ter.mp3]] |
 
 | I             | eu    | tenho  |
 | you (sg.inf.) | tu    | tens   |
@@ -248,14 +253,14 @@ Use it for:
 
 ** Can I See The Cat
 
-| poder | to be able to |
+| poder | to be able to | [[audio:audio/poder.mp3]] |
 
-| Can I see the cat? | Posso ver um gato? |
-| Can you show me?   | Pode mostrar-me? |
+| Can I see the cat? | Posso ver um gato? | [[audio:audio/posso-ver-um-gato-Q.mp3]] |
+| Can you show me?   | Pode mostrar-me?   | [[audio:audio/pode-mostrar-me-Q.mp3]]   |
 
-*** Poder, conjugation
+*** Poder, conjugation :noexport:
 
-| poder | to be able to (irregular verb) |
+| poder | to be able to (irregular verb) | [[audio:audio/poder.mp3]] |
 
 | I             | eu    | posso   |
 | you (sg.inf.) | tu    | podes   |
@@ -270,60 +275,119 @@ Use it for:
 
 ** This And That
 
-| this (near)       | este   |
-| this (right here) | isto   |
-| that (near)       | esse   |
-| that (far)        | aquele |
+| this (near)       | este   | [[audio:audio/este.mp3]]   |
+| this (right here) | isto   | [[audio:audio/isto.mp3]]   |
+| that (near)       | esse   | [[audio:audio/esse.mp3]]   |
+| that (far)        | aquele | [[audio:audio/aquele.mp3]] |
 
 ** A Book About The Village
 
 - Hello. How are you?
-- Olá. Como estás?
+
+| Olá. Como estás? | [[audio:audio/olá-como-estás-Q.mp3]] |
 
 #+ATTR_REVEAL: :frag t
 - I'm fine. And you?
-- Estou bem. E tu?
+
+#+ATTR_REVEAL: :frag t
+| Estou bem. E tu? | [[audio:audio/estou-bem-e-tu-Q.mp3]] |
 
 #+ATTR_REVEAL: :frag t
 - I'm not very well. It is very cold today. Do you have a minute? May I come in?
-- Não estou muito bem. Está muito frio hoje. Tens um minuto? Posso entrar?
+
+#+ATTR_REVEAL: :frag t
+| Não estou muito bem. | [[audio:audio/não-estou-muito-bem.mp3]] |
+| Está muito frio hoje. | [[audio:audio/está-muito-frio-hoje.mp3]] |
+| Tens um minuto? | [[audio:audio/tens-um-minuto-Q.mp3]] |
+| Posso entrar? | [[audio:audio/posso-entrar-Q.mp3]] |
 
 #+ATTR_REVEAL: :frag t
 - Yes, come in. Do you want a coffee?
-- Sim, entre. Queres um café?
 
 #+ATTR_REVEAL: :frag t
+| Sim, entre. Queres um café? | [[audio:audio/sim-entre-queres-um-café-Q.mp3]] |
+
+(continue *down*)
+
+#+REVEAL: split
+
 - Yes, thank you. Without sugar, please.
-- Sim, obrigado. Sem açúcar, por favor.
+
+#+ATTR_REVEAL: :frag t
+| Sim, obrigado. Sem açúcar, por favor. | [[audio:audio/sem-açúcar-por-favor.mp3]] |
 
 #+ATTR_REVEAL: :frag t
 - Here you are. Careful, it is very hot.
-- Aqui está. Cuidado, está muito quente.
+
+#+ATTR_REVEAL: :frag t
+| Aqui está. | [[audio:audio/aqui-está.mp3]] |
+| Cuidado, está muito quente. | [[audio:audio/cuidado-está-muito-quente.mp3]] |
+
+#+ATTR_REVEAL: :frag t
+- Thank you. Hot coffee is good. Do you have a book about the village?
+
+#+ATTR_REVEAL: :frag t
+| Obrigado. | [[audio:audio/obrigado.mp3]] |
+| Café quente está bem. | [[audio:audio/café-quente-está-bem.mp3]] |
+| Tens algum livro sobre a aldeia? | [[audio:audio/tens-algum-livro-sobre-a-aldeia-Q.mp3]] |
+
+(continue *down*)
+
+#+REVEAL: split
+
+- I have. This book has many photos. It is a good book, but it is old.
+
+#+ATTR_REVEAL: :frag t
+| Tenho. | [[audio:audio/tenho.mp3]] |
+| Este livro tem muita fotos. | [[audio:audio/este-livro-tem-muita-fotos.mp3]] |
+| O livro é bom, mas é antigo. | [[audio:audio/o-livro-é-bom-mas-é-antigo.mp3]] |
+
+#+ATTR_REVEAL: :frag t
+- Can I see it?
+
+#+ATTR_REVEAL: :frag t
+| Posso ver? | [[audio:audio/posso-ver-Q.mp3]] |
+
+#+ATTR_REVEAL: :frag t
+- Sure. Look at this. That is a good beach.
+
+#+ATTR_REVEAL: :frag t
+| Está bem. | [[audio:audio/está-bem.mp3]] |
+| Olha para isto. | [[audio:audio/olha-para-isto.mp3]] |
+| Essa é uma boa praia. | [[audio:audio/essa-é-uma-boa-praia.mp3]] |
 
 (continue *down*)
 
 #+REVEAL: split
 
 #+ATTR_REVEAL: :frag t
-- Thank you. Hot coffee is good. Do you have a book about the village?
-- Obrigado. Café quente está bem. Tens algum livro sobre a aldeia?
-
-#+ATTR_REVEAL: :frag t
-- I have. This book has many photos. It is a good book, but it is old.
-- Tenho. Este livro tem muita fotos. O livro é bom, mas é antigo.
-
-#+ATTR_REVEAL: :frag t
-- Can I see it?
-- Posso ver?
-
-#+ATTR_REVEAL: :frag t
-- Sure. Look at this. That is a good beach.
-- Está bem. Olha para isto. Essa é uma boa praia.
-  
-#+ATTR_REVEAL: :frag t
 - It is a beautiful village. Thank you. See you tomorrow.
-- É uma aldeia bonita. Obrigado. Até amanhã.
+
+#+ATTR_REVEAL: :frag t
+| É uma aldeia bonita. | [[audio:audio/é-uma-aldeia-bonita.mp3]] |
+| Obrigado. | [[audio:audio/obrigado.mp3]] |
+| Até amanhã. | [[audio:audio/até-amanhã.mp3]] |
 
 #+ATTR_REVEAL: :frag t
 - You're welcome. See you tomorrow.
+
+#+ATTR_REVEAL: :frag t
+| De nada. | [[audio:audio/de-nada.mp3]] |
+| Até amanhã. | [[audio:audio/até-amanhã.mp3]] |
+
+#+REVEAL: split
+
+The complete dialog [[audio:audio/chapter-1-dialogue-2.mp3]]
+
+- Olá. Como estás?
+- Estou bem. E tu?
+- Não estou muito bem. Está muito frio hoje. Tens um minuto? Posso entrar?
+- Sim, entre. Queres um café?
+- Sim, obrigado. Sem açúcar, por favor.
+- Aqui está. Cuidado, está muito quente.
+- Obrigado. Café quente está bem. Tens algum livro sobre a aldeia?
+- Tenho. Este livro tem muita fotos. O livro é bom, mas é antigo.
+- Posso ver?
+- Está bem. Olha para isto. Essa é uma boa praia.
+- É uma aldeia bonita. Obrigado. Até amanhã.
 - De nada. Até amanhã.
