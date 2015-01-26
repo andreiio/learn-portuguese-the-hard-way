@@ -1,24 +1,259 @@
-* Chapter Two :noexport:
-** give me the knife
-** when
-** what, how many, how much
-** why and because
-** who
-** so soon
-** to make
-** on, in, under, next to
-** have to
-** from yesterday
-** I have to meet a man
+* Chapter Two
+  :PROPERTIES:
+  :ID:       c039b7e7-4299-4117-9a30-a7991db9a670
+  :org-index-ref: R-1
+  :END:
+** What
+
+| What? | Quê? |
+
+In a question, use it without circumflex: /Que é isto?/, "What is this?"
+
+The circumflex form is pronounced differently.
+
+| What is a 'bica'?   | Que é uma bica?               |
+
+It is common to begin "What..." questions as "The what...": /O que.../
+
+| What is this?       | O que é isto?                 |
+
+And also, to insert "is that", /é que/.
+
+| What are you doing? | O que é que estás a fazer?    |
+| What is he saying?  | O que é que ele está a dizer? |
+
+** Polite forms
+
+- What do you want?
+
+- Que queres? -- This is informal, and very blunt, confrontational.
+- O que é que quer? -- This is more formal, but still a bit confrontational.
+- O que é que o senhor quer? -- Getting better.
+
+- What would you like, please?
+- Please, what does he (meaning you) desire?
+- Por favor, o que deseja?
+  
+| to desire | desejar |
+
+** The what is it that
+
+The phrase /é que/, "is that" is often inserted after the interrogative:
+
+| O que /é que/ queres? | Lit., 'The what /is (it) that/ you want?' |
+
+More polite to use the third person:
+
+| O que /é que/ quer? | Lit., 'The what /is (it) that/ you want?' |
+
+** Why
+
+| Why? | Porquê? | (literally, 'for what, por-que') |
+
+In a question, use it without circumflex: /Porque esta torrada é preto?/, "Why is this toast black?"
+
+It is common to begin "Why..." questions as "Why is it that...": /Porque é que.../
+
+| Why do you make toast?    | Porque é que fazes torradas?         |
+| Why are you making toast? | Porque é que estás a fazer torradas? |
+
+** Because
+
+| because | porque | (literally, 'for that, por-que') |
+
+It is the same word as "Why". You can think of them as "For what...? For that..."
+ 
+| I want a coffee because I am tired.    | Quero um café porque estou cansado.            |
+| Why here? Because we can't go further. | Porquê aqui? Porque não podemos ir mais longe. |
+
+** How many, How much
+
+| How much? | Quanto?       |
+| How many? | Quantos? (m.) |
+| How many? | Quantas? (f.) |
+
+There is some inconsistency in how 'How much / How many' is used in English and Portuguese.
+
+| How much does it cost? | Quanto é que custa? |
+
+| How many forks?        | Quantos garfos?     |
+| How many knives?       | Quantas facas?      |
+
+| How many do you want? | Quantos queres? |
+
+** When
+
+| When? | Quando? |
+
+The "When is it that..." is common here as well: /Quando é que.../ 
+
+| When is it ready? | Quando é que está pronto? |
+
+** Who
+
+| Quem? | Who? |
+
+| Who is there?            | Quem está aí?                      |
+| Who is this man?         | Quem é este homem?                 |
+| Who is making the toast? | Quem é que está a fazer a torrada? |
+
+** Interrogatives So Far
+
+| What, Which | Que                         |
+| Why         | Porque                      |
+| How many    | Quanto                      |
+| How much    | Quantos (m.) / Quantas (f.) |
+| When        | Quando                      |
+| Who         | Quem                        |
+
+*** further :noexport:
+    
+p.60 in Essential Grammar
+
+| to whom | o quem  |
+| whose   | de quem |
+
+** TODO I can hear you
+
+| to hear | ouvir |
+
+Third kind of conjugation, ouvir
+
+| I can hear you eating the toast. | Eu consigo ouvir-te a comer a torrada. |
+
+** Referring to things with 'que'
+ 
+In the middle of a sentence, you can use /que/ to refer to things
+already mentioned.
+
+/que/
+
+- who, whom, which, what
+
+/o que, a que/
+
+- the one that
+- the one who
+- the ones that
+- the ones who
+  
+| Do you need the knife that I have?     | Precisas da faca que tenho?                |
+| I need the one that is in the drawer.  | Preciso da que está na gaveta.             |
+| Can you hear the man who is eating?    | Consegues ouvir o homem que come?          |
+| He is eating the toast which is ready. | Ele está a come a torrada que está pronto. |
+
+** Give me the knife
+   
+| to give | dar (irregular verb) |
+
+| Can you give me a hand (help)? | Podes dar-me uma ajuda? |
+| Can you give me the knife?     | Podes dar-me a faca?    |
+
+"dar-me" and "me dar" is equivalent, but "me dar" is used in Brazil.
+
+*** to give, conjugation :noexport:
+
+| estou a dar   |
+| estás a dar   |
+| está a dar    |
+| estamos a dar |
+| estais a dar  |
+| estão a dar   |
+
+** TODO Make
+
+| to make, to do | fazer |
+
+** TODO Making
+
+| making, doing | a fazer |
+
+** TODO So soon
+   
+Where English has 'soon', in Portuguese it is either 'early' or 'shortly' (lit. 'in brief').
+
+| so early | tão cedo |
+
+| shortly | em breve | (lit. 'in brief') |
+
+| Don't do (that) so early.                          | Não a faças (isto) tão cedo.                             |
+| I can't talk here, but I'll be there soon.         | Não posso falar aqui, mas eutarei (? TODO) lá em breve.  |
+| This butter is so hard, it is not good for toasts. | Esta manteiga está tão dura, não está boa para torradas. |
+| Soon I'll have the one which has jam.              | Brevemente (? TODO em breve) terei aquela que tem doce.  |
+
+*** notes                                                          :noexport:
+    
+| Today I got up early. | Hoje acordei cedo. |
+
+** TODO On, in, under, next to
+
+| on      | TODO |
+| in      | em |
+| under   | TODO |
+| next to | TODO |
+
+em a gaveta -- na gaveta
+
+em o ormário -- no ormário
+
+| Give me the one under the book. | TODO |
+
+** TODO Have to
+
+| have to | tenho que |
+
+| I have to leave now.                             | TODO |
+| Do we have to meet today?                        | TODO |
+| You don't have to tell me why you have to do it. | TODO |
+
+** TODO While
+   
+| while | enquanto |
+
+| She can't tell me while you are here.         | TODO |
+| He doesn't eat while the cat is on the table. | TODO |
+| Why do you need three napkins while you eat?  | TODO |
+
+** Are you making toast?
 
 - What are you doing? Are you making toast?
+- O que estás a fazer? Estás a fazer torradas?
+
 - Yes. How many do you want?
+- Sim. Quantas queres?
+
 - Two slices. I don't have much time, I have to leave soon.
-- OK. Can you give me the knife? It is in the drawer.
-- Here you are. Why are you making toast today?
-- Because we have a lot of bread left over from yesterday. When do you have to leave?
-- In ten minutes. When will be the toast ready?
+- Duas fatias. Não tenho muito tempo, pois tenho que sair cedo.
+
+- OK. Can you give me a hand?
+- Está bem. Podes dar-me uma ajuda?
+
+- Of course, if I can.
+- Claro, se puder.
+
+- Can you give me the knife? It is in the drawer.
+- Podes me dar a faca? Está na gaveta.
+
+- Here you are. Why is it that you are making toast today?
+- Está aqui. Porque é que fazes torradas hoje?
+
+** I can't eat while I talk
+
+- Because we have a lot of bread which are left over. When do you have to leave?
+- Porque temos muito pão, que sobrou. Quando tens que sair?
+
+- In ten minutes. When is it that the toast will be ready?
+- Dentro de dez minutos. Quando é que a torrada está pronta?
+
 - It is ready now. Bonapetit. Can you tell me why you have to leave so soon?
+- Está pronta agora. Bom apetite. Podes dizes-me porque tens que sair tão cedo?
+
 - I have to meet a man who has to give me a parcel.
+- Tenho que encontrar um homem, que me vai dar um pacote.
+
 - Do you have to meet him today?
-- This toast is nice, but I can't eat while talking.
+- Tens que te encontrar com ele hoje?
+
+- Listen, thanks for the toast, but I can't eat while I talk.
+- Escuta-me, obrigado pela torrada, mas não posso comer enquanto falo.
+

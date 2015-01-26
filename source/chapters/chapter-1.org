@@ -275,10 +275,18 @@ Use it for:
 
 ** This And That
 
-| this (near)       | este   | [[audio:audio/este.mp3]]   |
-| this (right here) | isto   | [[audio:audio/isto.mp3]]   |
-| that (near)       | esse   | [[audio:audio/esse.mp3]]   |
-| that (far)        | aquele | [[audio:audio/aquele.mp3]] |
+| this (near, m.) | este   | [[audio:audio/este.mp3]]   |
+| this (near, f.) | esta   | TODO                   |
+|-----------------+--------+------------------------|
+| that (near, m.) | esse   | [[audio:audio/esse.mp3]]   |
+| that (near, f.) | essa   | TODO                   |
+|-----------------+--------+------------------------|
+| that (far, m.)  | aquele | [[audio:audio/aquele.mp3]] |
+| that (far, f.)  | aquela | TODO                   |
+|-----------------+--------+------------------------|
+| this (near, n.) | isto   | [[audio:audio/isto.mp3]]   |
+| that (near, n.) | isto   | [[audio:audio/isto.mp3]]   |
+| that (far, n.)  | aquelo | TODO                   |
 
 ** A Book About The Village
 
