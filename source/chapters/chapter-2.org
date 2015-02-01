@@ -160,16 +160,15 @@ already mentioned.
 | estais a dar  |
 | estão a dar   |
 
-** TODO Make
-
-| to make, to do | fazer |
-
-** TODO Making
-
-| making, doing | a fazer |
-
-** TODO So soon
+** Make + ing
    
+The -ing (gerund) form of verbs is /a + infinitive/:
+
+| to make, to do (infinitive) | fazer   |
+| making, doing (gerund)      | a fazer |
+
+** So soon
+ 
 Where English has 'soon', in Portuguese it is either 'early' or 'shortly' (lit. 'in brief').
 
 | so early | tão cedo |
@@ -177,12 +176,15 @@ Where English has 'soon', in Portuguese it is either 'early' or 'shortly' (lit. 
 | shortly | em breve | (lit. 'in brief') |
 
 | Don't do (that) so early.                          | Não a faças (isto) tão cedo.                             |
-| I can't talk here, but I'll be there soon.         | Não posso falar aqui, mas eutarei (? TODO) lá em breve.  |
+| I can't talk here, but I am there soon.            | Não posso falar aqui, mas eu está lá em breve.           |
 | This butter is so hard, it is not good for toasts. | Esta manteiga está tão dura, não está boa para torradas. |
-| Soon I'll have the one which has jam.              | Brevemente (? TODO em breve) terei aquela que tem doce.  |
+| Soon I am eating the one which has jam.            | Em breve eu está a come aquela que tem doce.             |
 
 *** notes                                                          :noexport:
     
+| Soon I will have the one which has jam.      | Brevemente terei aquela que tem doce.          |
+| I can't talk here, but I will be there soon. | Não posso falar aqui, mas eutarei lá em breve. |
+
 | Today I got up early. | Hoje acordei cedo. |
 
 ** TODO On, in, under, next to
@@ -198,21 +200,21 @@ em o ormário -- no ormário
 
 | Give me the one under the book. | TODO |
 
-** TODO Have to
+** Have to
 
 | have to | tenho que |
 
-| I have to leave now.                             | TODO |
-| Do we have to meet today?                        | TODO |
-| You don't have to tell me why you have to do it. | TODO |
+| I have to leave now.                               | Tenho sair agora.                                 |
+| Do we have to meet today?                          | Nós temos que encontrar hoje?                     |
+| You don't have to tell me why you have to do this. | Não tens que dizes-me porque tens que fazer isto. |
 
 ** TODO While
    
 | while | enquanto |
 
-| She can't tell me while you are here.         | TODO |
-| He doesn't eat while the cat is on the table. | TODO |
-| Why do you need three napkins while you eat?  | TODO |
+| She can't tell me while you are here.         | Ela não pode dizes-me enquanto está aqui. |
+| He doesn't eat while the cat is on the table. | TODO                                      |
+| Why do you need three napkins while you eat?  | TODO                                      |
 
 ** Are you making toast?
 
@@ -222,8 +224,10 @@ em o ormário -- no ormário
 - Yes. How many do you want?
 - Sim. Quantas queres?
 
-- Two slices. I don't have much time, I have to leave soon.
+- Two slices. I don't have much time, I have to leave early.
 - Duas fatias. Não tenho muito tempo, pois tenho que sair cedo.
+  
+// pois?
 
 - OK. Can you give me a hand?
 - Está bem. Podes dar-me uma ajuda?
