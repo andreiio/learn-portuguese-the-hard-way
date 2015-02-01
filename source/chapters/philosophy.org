@@ -1,12 +1,10 @@
+* Philosophy                                                       :noexport:
+ 
+The hard way is the easy way.
 
-* TODO Philosophy                                                  :noexport:
-
-TODO
-
-Learn X The Hard Way philosophy: ...
-
-*Space* or *right* for next step, *ESC* to zoom out
-
-Sometimes there is Down.
+Learn X The Hard Way philosophy
 
 Download this in a .zip
+
+Cheatsheet:
+- conjugation -ar, -er, -ir

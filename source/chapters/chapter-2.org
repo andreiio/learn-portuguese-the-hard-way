@@ -187,18 +187,19 @@ Where English has 'soon', in Portuguese it is either 'early' or 'shortly' (lit. 
 
 | Today I got up early. | Hoje acordei cedo. |
 
-** TODO On, in, under, next to
+** On, in, under, next to
 
-| on      | TODO |
-| in      | em |
-| under   | TODO |
-| next to | TODO |
+| in    | em         |
+| on    | sobre      |
+| under | sob        |
+| near  | próximo de |
 
-em a gaveta -- na gaveta
+Contractions:
 
-em o ormário -- no ormário
+| in the drawer   | /em a/ gaveta  | *=>* | /na/ gaveta  |
+| in the cupboard | /em o/ ormário | *=>* | /no/ ormário |
 
-| Give me the one under the book. | TODO |
+| Please give me the fotos which are under the book. | Por favor, dar-me as fotos o que sob o livro. |
 
 ** Have to
 
@@ -208,13 +209,13 @@ em o ormário -- no ormário
 | Do we have to meet today?                          | Nós temos que encontrar hoje?                     |
 | You don't have to tell me why you have to do this. | Não tens que dizes-me porque tens que fazer isto. |
 
-** TODO While
+** While
    
 | while | enquanto |
 
-| She can't tell me while you are here.         | Ela não pode dizes-me enquanto está aqui. |
-| He doesn't eat while the cat is on the table. | TODO                                      |
-| Why do you need three napkins while you eat?  | TODO                                      |
+| She can't tell me while you are here.               | Ela não pode dizes-me enquanto está aqui.             |
+| He doesn't eat while that cat is on the table.      | Não comer enquanto aquelo gato é sobre a mesa.        |
+| Why do you need three napkins while you are eating? | Porque o que tem três guardanapos enquanto está come? |
 
 ** Are you making toast?
 
@@ -225,9 +226,7 @@ em o ormário -- no ormário
 - Sim. Quantas queres?
 
 - Two slices. I don't have much time, I have to leave early.
-- Duas fatias. Não tenho muito tempo, pois tenho que sair cedo.
-  
-// pois?
+- Duas fatias. Não tenho muito tempo, pois tenho que sair cedo. // pois?
 
 - OK. Can you give me a hand?
 - Está bem. Podes dar-me uma ajuda?
