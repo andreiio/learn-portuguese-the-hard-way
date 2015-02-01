@@ -368,7 +368,6 @@ Use it for:
 
 #+REVEAL: split
 
-#+ATTR_REVEAL: :frag t
 - It is a beautiful village. Thank you. See you tomorrow.
 
 #+ATTR_REVEAL: :frag t

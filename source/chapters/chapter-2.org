@@ -24,15 +24,15 @@ And also, to insert "is that", /é que/.
 
 ** Polite forms
 
-- What do you want?
+What do you want?
 
-- Que queres? -- This is informal, and very blunt, confrontational.
-- O que é que quer? -- This is more formal, but still a bit confrontational.
-- O que é que o senhor quer? -- Getting better.
+| Que queres?                | This is informal and blunt, can be confrontational. |
+| O que é que quer?          | More formal, but still a bit confrontational.       |
+| O que é que o senhor quer? | Getting better.                                     |
 
-- What would you like, please?
-- Please, what does he (meaning you) desire?
-- Por favor, o que deseja?
+It is best to put it this way:
+
+| Por favor, o que deseja? | Please, what does he (meaning you) desire? |
   
 | to desire | desejar |
 
@@ -113,7 +113,7 @@ p.60 in Essential Grammar
 | to whom | o quem  |
 | whose   | de quem |
 
-** TODO I can hear you
+** TODO I can hear you :noexport:
 
 | to hear | ouvir |
 
