@@ -235,7 +235,7 @@ Contractions:
 - Claro, se puder.
 
 - Can you give me the knife? It is in the drawer.
-- Podes me dar a faca? Está na gaveta.
+- Podes dar-me a faca? Está na gaveta.
 
 - Here you are. Why is it that you are making toast today?
 - Está aqui. Porque é que fazes torradas hoje?
