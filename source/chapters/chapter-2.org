@@ -32,15 +32,19 @@ What do you want?
 
 It is best to put it this way:
 
-| Por favor, o que deseja? | Please, what does he (meaning you) desire? |
-  
+| Por favor, o que deseja? | Please, what do you desire? |
+
 | to desire | desejar |
+
+*** note :noexport:
+
+Not good example, -ar conjugates the same in 2nd and 3rd.
+
+In polite forms, refer to the other in the third person. Above we conjugate /desejar/ 'to desire' as /deseja/ 'he desires', not as...
 
 ** The what is it that
 
-The phrase /é que/, "is that" is often inserted after the interrogative:
-
-| O que /é que/ queres? | Lit., 'The what /is (it) that/ you want?' |
+The phrase /é que/, "is that" is often inserted after the interrogative.
 
 More polite to use the third person:
 
@@ -57,6 +61,7 @@ It is common to begin "Why..." questions as "Why is it that...": /Porque é que.
 | Why do you make toast?    | Porque é que fazes torradas?         |
 | Why are you making toast? | Porque é que estás a fazer torradas? |
 
+*** TODO reverse the ê explanation, no circumflex by default       :noexport:
 ** Because
 
 | because | porque | (literally, 'for that, por-que') |
@@ -121,6 +126,7 @@ Third kind of conjugation, ouvir
 
 | I can hear you eating the toast. | Eu consigo ouvir-te a comer a torrada. |
 
+*** TODO consigo: ability, posso: permission :noexport:
 ** Referring to things with 'que'
  
 In the middle of a sentence, you can use /que/ to refer to things

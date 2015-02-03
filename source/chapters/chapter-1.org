@@ -156,7 +156,7 @@ need of sth'. A few cases:
 
 #+ATTR_REVEAL: :frag t
 - She doesn't want (it), because she prefers a cake and an ice cream.
-- Ela não quer, porque prefere um bolo e um gelado. [[audio:audio/ela-não-quer-porque-prefere-um-bolo-e-um-gelado.mp3]]
+- Ela não quer, porque prefere um bolo e um gelado. [[audio:audio/ele-não-quer-porque-prefere-um-bolo-e-um-gelado.mp3]]
 
 #+ATTR_REVEAL: :frag t
 - But we need three spoons for the ice cream and the coffees.

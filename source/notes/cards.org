@@ -1,3 +1,5 @@
+* Chapter 1
+
 | Front                                                             | Back                                                      | Tags      |
 |-------------------------------------------------------------------+-----------------------------------------------------------+-----------|
 | cold                                                              | frio                                                      | chapter-1 |
@@ -108,3 +110,73 @@
 | See you tomorrow. (Until tomorrow)                                | Até amanhã.                                               | chapter-1 |
 | You're welcome.                                                   | De nada.                                                  | chapter-1 |
 | See you tomorrow.                                                 | Até amanhã.                                               | chapter-1 |
+
+* Chapter 2
+
+| Front                                                                          | Back                                                                          | Tags      |
+|--------------------------------------------------------------------------------+-------------------------------------------------------------------------------+-----------|
+| short coffee                                                                   | bica                                                                          | chapter-2 |
+| What, Which                                                                    | Que                                                                           | chapter-2 |
+| Why                                                                            | Porque                                                                        | chapter-2 |
+| How many                                                                       | Quanto                                                                        | chapter-2 |
+| How much                                                                       | Quantos (m.) / Quantas (f.)                                                   | chapter-2 |
+| When                                                                           | Quando                                                                        | chapter-2 |
+| Who                                                                            | Quem                                                                          | chapter-2 |
+| What is a 'bica'?                                                              | Que é uma bica?                                                               | chapter-2 |
+| What is this?                                                                  | O que é isto?                                                                 | chapter-2 |
+| What are you doing?                                                            | O que é que estás a fazer?                                                    | chapter-2 |
+| What is he saying?                                                             | O que é que ele está a dizer?                                                 | chapter-2 |
+| What do you want? (informal and blunt)                                         | Que queres?                                                                   | chapter-2 |
+| What is it that you want? (more formal)                                        | O que é que quer?                                                             | chapter-2 |
+| The what is it that you want?                                                  | O que é que o senhor quer?                                                    | chapter-2 |
+| Please, what do you desire?                                                    | Por favor, o que deseja?                                                      | chapter-2 |
+| Why do you make toast?                                                         | Porque é que fazes torradas?                                                  | chapter-2 |
+| Why are you making toast?                                                      | Porque é que estás a fazer torradas?                                          | chapter-2 |
+| How much does it cost?                                                         | Quanto é que custa?                                                           | chapter-2 |
+| How many forks?                                                                | Quantos garfos?                                                               | chapter-2 |
+| How many knives?                                                               | Quantas facas?                                                                | chapter-2 |
+| How many do you want?                                                          | Quantos queres?                                                               | chapter-2 |
+| When is it ready?                                                              | Quando é que está pronto?                                                     | chapter-2 |
+| Who is there?                                                                  | Quem está aí?                                                                 | chapter-2 |
+| Who is this man?                                                               | Quem é este homem?                                                            | chapter-2 |
+| Who is making the toast?                                                       | Quem é que está a fazer a torrada?                                            | chapter-2 |
+| I can hear you eating the toast.                                               | Eu consigo ouvir-te a comer a torrada.                                        | chapter-2 |
+| Do you need the knife that I have?                                             | Precisas da faca que tenho?                                                   | chapter-2 |
+| I need the one that is in the drawer.                                          | Preciso da que está na gaveta.                                                | chapter-2 |
+| Can you hear the man who is eating?                                            | Consegues ouvir o homem que come?                                             | chapter-2 |
+| He is eating the toast which is ready.                                         | Ele está a come a torrada que está pronto.                                    | chapter-2 |
+| Can you give me a hand (help)?                                                 | Podes dar-me uma ajuda?                                                       | chapter-2 |
+| Can you give me the knife?                                                     | Podes dar-me a faca?                                                          | chapter-2 |
+| so early                                                                       | tão cedo                                                                      | chapter-2 |
+| shortly                                                                        | em breve (lit. 'in brief')                                                    | chapter-2 |
+| Don't do (that) so early.                                                      | Não a faças (isto) tão cedo.                                                  | chapter-2 |
+| I can't talk here, but I am there soon.                                        | Não posso falar aqui, mas eu está lá em breve.                                | chapter-2 |
+| This butter is so hard, it is not good for toasts.                             | Esta manteiga está tão dura, não está boa para torradas.                      | chapter-2 |
+| Soon I am eating the one which has jam.                                        | Em breve eu está a come aquela que tem doce.                                  | chapter-2 |
+| in                                                                             | em                                                                            | chapter-2 |
+| on                                                                             | sobre                                                                         | chapter-2 |
+| under                                                                          | sob                                                                           | chapter-2 |
+| near                                                                           | próximo de                                                                    | chapter-2 |
+| in the drawer                                                                  | na gaveta                                                                     | chapter-2 |
+| in the cupboard                                                                | no ormário                                                                    | chapter-2 |
+| Please give me the fotos which are under the book.                             | Por favor, dar-me as fotos o que sob o livro.                                 | chapter-2 |
+| I have to leave now.                                                           | Tenho sair agora.                                                             | chapter-2 |
+| Do we have to meet today?                                                      | Nós temos que encontrar hoje?                                                 | chapter-2 |
+| You don't have to tell me why you have to do this.                             | Não tens que dizes-me porque tens que fazer isto.                             | chapter-2 |
+| She can't tell me while you are here.                                          | Ela não pode dizes-me enquanto está aqui.                                     | chapter-2 |
+| He doesn't eat while that cat is on the table.                                 | Não comer enquanto aquelo gato é sobre a mesa.                                | chapter-2 |
+| Why do you need three napkins while you are eating?                            | Porque o que tem três guardanapos enquanto está come?                         | chapter-2 |
+| What are you doing? Are you making toast?                                      | O que estás a fazer? Estás a fazer torradas?                                  | chapter-2 |
+| Yes. How many do you want?                                                     | Sim. Quantas queres?                                                          | chapter-2 |
+| Two slices. I don't have much time, I have to leave early.                     | Duas fatias. Não tenho muito tempo, pois tenho que sair cedo. // pois?        | chapter-2 |
+| OK. Can you give me a hand?                                                    | Está bem. Podes dar-me uma ajuda?                                             | chapter-2 |
+| Of course, if I can.                                                           | Claro, se puder.                                                              | chapter-2 |
+| Can you give me the knife? It is in the drawer.                                | Podes dar-me a faca? Está na gaveta.                                          | chapter-2 |
+| Here you are. Why is it that you are making toast today?                       | Está aqui. Porque é que fazes torradas hoje?                                  | chapter-2 |
+| Because we have a lot of bread which are left over. When do you have to leave? | Porque temos muito pão, que sobrou. Quando tens que sair?                     | chapter-2 |
+| In ten minutes. When is it that the toast will be ready?                       | Dentro de dez minutos. Quando é que a torrada está pronta?                    | chapter-2 |
+| It is ready now. Bonapetit. Can you tell me why you have to leave so soon?     | Está pronta agora. Bom apetite. Podes dizes-me porque tens que sair tão cedo? | chapter-2 |
+| I have to meet a man who has to give me a parcel.                              | Tenho que encontrar um homem, que me vai dar um pacote.                       | chapter-2 |
+| Do you have to meet him today?                                                 | Tens que te encontrar com ele hoje?                                           | chapter-2 |
+| Listen, thanks for the toast, but I can't eat while I talk.                    | Escuta-me, obrigado pela torrada, mas não posso comer enquanto falo.          | chapter-2 |
+
