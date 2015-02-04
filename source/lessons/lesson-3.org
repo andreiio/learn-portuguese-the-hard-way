@@ -1,4 +1,4 @@
-* Chapter Three :noexport:
+* Lesson 3                                                         :noexport:
 ** TODO more this and that
 ** TODO it's mine
 ** TODO like this

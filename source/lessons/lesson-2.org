@@ -1,4 +1,4 @@
-* Chapter Two
+* Lesson 2
   :PROPERTIES:
   :ID:       c039b7e7-4299-4117-9a30-a7991db9a670
   :org-index-ref: R-1
@@ -203,7 +203,7 @@ Where English has 'soon', in Portuguese it is either 'early' or 'shortly' (lit. 
 Contractions:
 
 | in the drawer   | /em a/ gaveta  | *=>* | /na/ gaveta  |
-| in the cupboard | /em o/ ormário | *=>* | /no/ ormário |
+| in the cupboard | /em o/ armário | *=>* | /no/ armário |
 
 | Please give me the fotos which are under the book. | Por favor, dar-me as fotos o que sob o livro. |
 
@@ -212,16 +212,17 @@ Contractions:
 | have to | tenho que |
 
 | I have to leave now.                               | Tenho sair agora.                                 |
-| Do we have to meet today?                          | Nós temos que encontrar hoje?                     |
-| You don't have to tell me why you have to do this. | Não tens que dizes-me porque tens que fazer isto. |
+| Do we have to meet today?                          | Temos que nos encontrar hoje?                     |
+| You don't have to tell me why you have to do this. | Não tens que me dizer porque tens que fazer isto. |
 
+** TODO tell me about it                                           :noexport:
 ** While
    
 | while | enquanto |
 
-| She can't tell me while you are here.               | Ela não pode dizes-me enquanto está aqui.             |
-| He doesn't eat while that cat is on the table.      | Não comer enquanto aquelo gato é sobre a mesa.        |
-| Why do you need three napkins while you are eating? | Porque o que tem três guardanapos enquanto está come? |
+| She can't tell me while you are here.               | Ela não me pode dizer enquanto estás aqui.                      |
+| He doesn't eat while that cat is on the table.      | Ele não come enquanto aquele gato está sobre a mesa.            |
+| Why do you need three napkins while you are eating? | Porque é que precisas de três guardanapos enquanto estás comer? |
 
 ** Are you making toast?
 
@@ -232,7 +233,7 @@ Contractions:
 - Sim. Quantas queres?
 
 - Two slices. I don't have much time, I have to leave early.
-- Duas fatias. Não tenho muito tempo, pois tenho que sair cedo. // pois?
+- Duas fatias. Não tenho muito tempo, tenho que sair cedo.
 
 - OK. Can you give me a hand?
 - Está bem. Podes dar-me uma ajuda?
@@ -244,25 +245,27 @@ Contractions:
 - Podes dar-me a faca? Está na gaveta.
 
 - Here you are. Why is it that you are making toast today?
-- Está aqui. Porque é que fazes torradas hoje?
+- Aqui está. Porque é que estás a fazer torradas hoje?
 
+** TODO encontrar: meet with, look for                             :noexport:
+** TODO para: to, pela: for the toas                               :noexport:
 ** I can't eat while I talk
 
 - Because we have a lot of bread which are left over. When do you have to leave?
-- Porque temos muito pão, que sobrou. Quando tens que sair?
+- Porque temos muito pão que sobrou. Quando tens que sair?
 
 - In ten minutes. When is it that the toast will be ready?
-- Dentro de dez minutos. Quando é que a torrada está pronta?
+- Dentro de dez minutos. Quando é que as torradas está pronta?
 
 - It is ready now. Bonapetit. Can you tell me why you have to leave so soon?
 - Está pronta agora. Bom apetite. Podes dizes-me porque tens que sair tão cedo?
 
-- I have to meet a man who has to give me a parcel.
-- Tenho que encontrar um homem, que me vai dar um pacote.
+- I have to meet with a man who has to give me a parcel.
+- Tenho que me encontrar com um homem, que me vai dar um pacote.
 
-- Do you have to meet him today?
+- Do you have to meet with him today?
 - Tens que te encontrar com ele hoje?
 
 - Listen, thanks for the toast, but I can't eat while I talk.
 - Escuta-me, obrigado pela torrada, mas não posso comer enquanto falo.
-
+  
