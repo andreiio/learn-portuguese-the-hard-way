@@ -12,7 +12,7 @@ The 'a / an', 'some' and 'the' have to agree in gender with the noun.
 | some coffees | uns cafés (m.pl.) | [[audio:audio/uns-cafés.mp3]] |
 
 #+ATTR_REVEAL: :frag t
-| a spoon     | uma colher (f.)       | [[audio:audio/uma-colher.mp3]]    |
+| a spoon     | uma colher (f.)       | [[audio:audio/uma colher.mp3]]    |
 | some spoons | umas colheres (f.pl.) | [[audio:audio/umas-colheres.mp3]] |
 
 #+ATTR_REVEAL: :frag t
@@ -46,7 +46,7 @@ Questions can be of the same form, with a raised tone at the end.
 
 #+ATTR_REVEAL: :frag t
 | Does he want a coffee?  | Ele quer um café?        | [[audio:audio/ele-quer-um-café-Q.mp3]]      |
-| (Do you) want a coffee? | (O senhor) quer um café? | [[audio:audio/o-senhor-quer-um-café-Q.mp3]] |
+| (Do you) want a coffee? | (O senhor) quer um café? | [[audio:audio/O senhor quer um café?.mp3]] |
 
 #+ATTR_REVEAL: :frag t
 | Please | Por favor | [[audio:audio/por-favor.mp3]] |
@@ -162,7 +162,7 @@ need of sth'. A few cases:
 - But we need three spoons for the ice cream and the coffees.
 - Mas precisamos de três colheres para o gelado e os cafés. [[audio:audio/mas-precisamos-de-três-colheres-para-o-gelado-e-os-cafés.mp3]]
 
-The complete dialog: [[audio:audio/chapter-1-dialogue-1.mp3]]
+The complete dialog [[audio:audio/lesson-1-dialogue-1.mp3]]
 
 ** Roses Are Red Forever
   :PROPERTIES:
@@ -177,7 +177,7 @@ Use it for:
 - permanent or durable states (roses are forever red)
 - to point something out (it is a beautiful beach)
 
-| Roses are red forever.     | Ros/as/ (f.pl.) são vermelh/as/ para sempre. | [[audio:audio/rosas-são-vermelhas-para-sempre.mp3]] |
+| Roses are red forever.     | Ros/as/ (f.pl.) são vermelh/as/ para sempre. | [[audio:audio/Rosas são vermelhas para sempre.mp3]] |
 | (It) is a beautiful beach. | É um prai/a/ (f.) bonit/a/.                  | [[audio:audio/é-um-praia-bonita.mp3]]               |
 | I am Pedro.                | Eu sou o Pedro.                              | [[audio:audio/eu-sou-o-pedro.mp3]]                  |
 
@@ -384,7 +384,7 @@ Use it for:
 
 #+REVEAL: split
 
-The complete dialog [[audio:audio/chapter-1-dialogue-2.mp3]]
+The complete dialog [[audio:audio/lesson-1-dialogue-2.mp3]]
 
 - Olá. Como estás?
 - Estou bem. E tu?

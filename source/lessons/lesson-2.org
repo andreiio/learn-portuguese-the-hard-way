@@ -11,28 +11,28 @@ In a question, use it without circumflex: /Que é isto?/, "What is this?"
 
 The circumflex form is pronounced differently.
 
-| What is a 'bica'?   | Que é uma bica?               |
+| What is a 'bica'? | O que é uma bica? | [[audio:audio/O que é uma bica?.mp3]] |
 
 It is common to begin "What..." questions as "The what...": /O que.../
 
-| What is this?       | O que é isto?                 |
+| What is this? | O que é isto? | [[audio:audio/O que é isto?.mp3]] |
 
 And also, to insert "is that", /é que/.
 
-| What are you doing? | O que é que estás a fazer?    |
-| What is he saying?  | O que é que ele está a dizer? |
+| What are you doing? | O que é que estás a fazer?    | [[audio:audio/O que é que estás a fazer?.mp3]]    |
+| What is he saying?  | O que é que ele está a dizer? | [[audio:audio/O que é que ele está a dizer?.mp3]] |
 
 ** Polite forms
 
 What do you want?
 
-| Que queres?                | This is informal and blunt, can be confrontational. |
-| O que é que quer?          | More formal, but still a bit confrontational.       |
-| O que é que o senhor quer? | Getting better.                                     |
+| Que queres?                | [[audio:audio/Que queres?.mp3]]                | This is informal and blunt, can be confrontational. |
+| O que é que quer?          | [[audio:audio/O que é que quer?.mp3]]          | More formal, but still a bit confrontational.       |
+| O que é que o senhor quer? | [[audio:audio/O que é que o senhor quer?.mp3]] | Getting better.                                     |
 
 It is best to put it this way:
 
-| Por favor, o que deseja? | Please, what do you desire? |
+| Por favor, o que deseja? | [[audio:audio/Por favor, o que deseja?.mp3]] | Please, what do you desire? |
 
 | to desire | desejar |
 
@@ -48,7 +48,7 @@ The phrase /é que/, "is that" is often inserted after the interrogative.
 
 More polite to use the third person:
 
-| O que /é que/ quer? | Lit., 'The what /is (it) that/ you want?' |
+| O que /é que/ quer? | [[audio:audio/O que é que quer?.mp3]] | Lit., 'The what /is (it) that/ you want?' |
 
 ** Why
 
@@ -58,8 +58,8 @@ In a question, use it without circumflex: /Porque esta torrada é preto?/, "Why 
 
 It is common to begin "Why..." questions as "Why is it that...": /Porque é que.../
 
-| Why do you make toast?    | Porque é que fazes torradas?         |
-| Why are you making toast? | Porque é que estás a fazer torradas? |
+| Why do you make toast?    | Porque é que fazes torradas?         | [[audio:audio/Porque é que fazes torradas?.mp3]]         |
+| Why are you making toast? | Porque é que estás a fazer torradas? | [[audio:audio/Porque é que estás a fazer torradas?.mp3]] |
 
 *** TODO reverse the ê explanation, no circumflex by default       :noexport:
 ** Because
@@ -68,48 +68,47 @@ It is common to begin "Why..." questions as "Why is it that...": /Porque é que.
 
 It is the same word as "Why". You can think of them as "For what...? For that..."
  
-| I want a coffee because I am tired.    | Quero um café porque estou cansado.            |
-| Why here? Because we can't go further. | Porquê aqui? Porque não podemos ir mais longe. |
+| I want a coffee because I am tired.    | Quero um café porque estou cansado.            | [[audio:audio/Quero um café porque estou cansado.mp3]] |
+| Why here? Because we can't go further. | Porquê aqui? Porque não podemos ir mais longe. | [[audio:audio/Porquê aqui? Porque não podemos ir mais longe.mp3]] |
 
 ** How many, How much
 
-| How much? | Quanto?       |
-| How many? | Quantos? (m.) |
-| How many? | Quantas? (f.) |
+| How many? | Quanto?                     | [[audio:audio/Quanto.mp3]]          |
+| How much? | Quantos? (m.) Quantas? (f.) | [[audio:audio/Quantos Quantas.mp3]] |
 
 There is some inconsistency in how 'How much / How many' is used in English and Portuguese.
 
-| How much does it cost? | Quanto é que custa? |
+| How much does it cost? | Quanto é que custa? | [[audio:audio/Quanto é que custa?.mp3]] |
 
-| How many forks?        | Quantos garfos?     |
-| How many knives?       | Quantas facas?      |
+| How many forks?        | Quantos garfos?     | [[audio:audio/Quantos garfos?.mp3]] |
+| How many knives?       | Quantas facas?      | [[audio:audio/Quantas facas?.mp3]] |
 
-| How many do you want? | Quantos queres? |
+| How many do you want? | Quantos queres? | [[audio:audio/Quantos queres?.mp3]] |
 
 ** When
 
-| When? | Quando? |
+| When? | Quando? | [[audio:audio/Quando.mp3]] |
 
 The "When is it that..." is common here as well: /Quando é que.../ 
 
-| When is it ready? | Quando é que está pronto? |
+| When is it ready? | Quando é que está pronto? | [[audio:audio/Quando é que está pronto?.mp3]] |
 
 ** Who
 
-| Quem? | Who? |
+| Who? | Quem? | [[audio:audio/Quem.mp3]] |
 
-| Who is there?            | Quem está aí?                      |
-| Who is this man?         | Quem é este homem?                 |
-| Who is making the toast? | Quem é que está a fazer a torrada? |
+| Who is there?            | Quem está aí?                      | [[audio:audio/Quem está aí?.mp3]]                      |
+| Who is this man?         | Quem é este homem?                 | [[audio:audio/Quem é este homem?.mp3]]                 |
+| Who is making the toast? | Quem é que está a fazer a torrada? | [[audio:audio/Quem é que está a fazer a torrada?.mp3]] |
 
 ** Interrogatives So Far
 
-| What, Which | Que                         |
-| Why         | Porque                      |
-| How many    | Quanto                      |
-| How much    | Quantos (m.) / Quantas (f.) |
-| When        | Quando                      |
-| Who         | Quem                        |
+| What, Which | Que                         | [[audio:audio/Que.mp3]]             |
+| Why         | Porque                      | [[audio:audio/porque.mp3]]          |
+| How many    | Quanto                      | [[audio:audio/Quanto.mp3]]          |
+| How much    | Quantos (m.) / Quantas (f.) | [[audio:audio/Quantos Quantas.mp3]] |
+| When        | Quando                      | [[audio:audio/Quando.mp3]]          |
+| Who         | Quem                        | [[audio:audio/Quem.mp3]]            |
 
 *** further :noexport:
     
@@ -124,7 +123,7 @@ p.60 in Essential Grammar
 
 Third kind of conjugation, ouvir
 
-| I can hear you eating the toast. | Eu consigo ouvir-te a comer a torrada. |
+| I can hear you eating the toast. | Eu consigo ouvir-te a comer a torrada. | [[audio:audio/Eu consigo ouvir-te a comer a torrada.mp3]] |
 
 *** TODO consigo: ability, posso: permission :noexport:
 ** Referring to things with 'que'
@@ -143,17 +142,17 @@ already mentioned.
 - the ones that
 - the ones who
   
-| Do you need the knife that I have?     | Precisas da faca que tenho?                |
-| I need the one that is in the drawer.  | Preciso da que está na gaveta.             |
-| Can you hear the man who is eating?    | Consegues ouvir o homem que come?          |
-| He is eating the toast which is ready. | Ele está a come a torrada que está pronto. |
+| Do you need the knife that I have?     | Precisas da faca que tenho?                | [[audio:audio/Precisas da faca que tenho?.mp3]]               |
+| I need the one that is in the drawer.  | Preciso da que está na gaveta.             | [[audio:audio/Preciso da que está na gaveta.mp3]]             |
+| Can you hear the man who is eating?    | Consegues ouvir o homem que come?          | [[audio:audio/Consegues ouvir o homem que come?.mp3]]         |
+| He is eating the toast which is ready. | Ele está a come a torrada que está pronto. | [[audio:audio/Ele está a come a torrada que está pronto.mp3]] |
 
 ** Give me the knife
    
 | to give | dar (irregular verb) |
 
-| Can you give me a hand (help)? | Podes dar-me uma ajuda? |
-| Can you give me the knife?     | Podes dar-me a faca?    |
+| Can you give me a hand (help)? | Podes dar-me uma ajuda? | [[audio:audio/Podes dar-me uma ajuda?.mp3]] |
+| Can you give me the knife?     | Podes dar-me a faca?    | [[audio:audio/Podes dar-me a faca?.mp3]]    |
 
 "dar-me" and "me dar" is equivalent, but "me dar" is used in Brazil.
 
@@ -177,14 +176,14 @@ The -ing (gerund) form of verbs is /a + infinitive/:
  
 Where English has 'soon', in Portuguese it is either 'early' or 'shortly' (lit. 'in brief').
 
-| so early | tão cedo |
+| so early | tão cedo | [[audio:audio/tão cedo.mp3]] |
 
-| shortly | em breve | (lit. 'in brief') |
+| shortly | em breve | [[audio:audio/em breve.mp3]] | (lit. 'in brief') |
 
-| Don't do (that) so early.                          | Não a faças (isto) tão cedo.                             |
-| I can't talk here, but I am there soon.            | Não posso falar aqui, mas eu está lá em breve.           |
-| This butter is so hard, it is not good for toasts. | Esta manteiga está tão dura, não está boa para torradas. |
-| Soon I am eating the one which has jam.            | Em breve eu está a come aquela que tem doce.             |
+| Don't do (that) so early.                          | Não a faças (isto) tão cedo.                             | [[audio:audio/Não a faças tão cedo.mp3]]                                    |
+| I can't talk here, but I am there soon.            | Não posso falar aqui, mas eu estarei lá em breve.        | [[audio:audio/Não posso falar aqui, mas eu estarei lá em breve.mp3]]        |
+| This butter is so hard, it is not good for toasts. | Esta manteiga está tão dura, não está boa para torradas. | [[audio:audio/Esta manteiga está tão dura, não está boa para torradas.mp3]] |
+| Soon I am eating the one which has jam.            | Em breve eu está a come aquela que tem doce.             | [[audio:audio/Em breve eu está a come aquela que tem doce.mp3]]             |
 
 *** notes                                                          :noexport:
     
@@ -195,36 +194,38 @@ Where English has 'soon', in Portuguese it is either 'early' or 'shortly' (lit. 
 
 ** On, in, under, next to
 
-| in    | em         |
-| on    | sobre      |
-| under | sob        |
-| near  | próximo de |
+| in    | em         | [[audio:audio/em.mp3]] |
+| on    | sobre      | [[audio:audio/sobre.mp3]] |
+| under | sob        | [[audio:audio/sob.mp3]] |
+| near  | próximo de | [[audio:audio/próximo de.mp3]] |
 
 Contractions:
 
-| in the drawer   | /em a/ gaveta  | *=>* | /na/ gaveta  |
-| in the cupboard | /em o/ armário | *=>* | /no/ armário |
+| in the drawer   | /em a/ gaveta  | *=>* | /na/ gaveta  | [[audio:audio/na gaveta.mp3]] |
+| in the cupboard | /em o/ armário | *=>* | /no/ armário | [[audio:audio/no armário.mp3]] |
 
-| Please give me the fotos which are under the book. | Por favor, dar-me as fotos o que sob o livro. |
+| Please give me the fotos which are under the book. | Por favor, dá-me as fotos que estão sob o livro. | [[audio:audio/Por favor, dá-me as fotos que estão sob o livro.mp3]] |
 
 ** Have to
 
 | have to | tenho que |
 
-| I have to leave now.                               | Tenho sair agora.                                 |
-| Do we have to meet today?                          | Temos que nos encontrar hoje?                     |
-| You don't have to tell me why you have to do this. | Não tens que me dizer porque tens que fazer isto. |
+| I have to leave now.                               | Tenho que sair agora.                             | [[audio:audio/Tenho que sair agora.mp3]]                             |
+| Do we have to meet today?                          | Temos que nos encontrar hoje?                     | [[audio:audio/Temos que nos encontrar hoje?.mp3]]                    |
+| You don't have to tell me why you have to do this. | Não tens que me dizer porque tens que fazer isto. | [[audio:audio/Não tens que me dizer porque tens que fazer isto.mp3]] |
 
 ** TODO tell me about it                                           :noexport:
 ** While
    
 | while | enquanto |
 
-| She can't tell me while you are here.               | Ela não me pode dizer enquanto estás aqui.                      |
-| He doesn't eat while that cat is on the table.      | Ele não come enquanto aquele gato está sobre a mesa.            |
-| Why do you need three napkins while you are eating? | Porque é que precisas de três guardanapos enquanto estás comer? |
+| She can't tell me while you are here.               | Ela não me pode dizer enquanto estás aqui.                      | [[audio:audio/Ela não me pode dizer enquanto estás aqui.mp3]]                       |
+| He doesn't eat while that cat is on the table.      | Ele não come enquanto aquele gato está sobre a mesa.            | [[audio:audio/Ele não come enquanto aquele gato está sobre a mesa.mp3]]             |
+| Why do you need three napkins while you are eating? | Porque é que precisas de três guardanapos enquanto estás comer? | [[audio:audio/Porque é que precisas de três guardanapos enquanto estás comer?.mp3]] |
 
 ** Are you making toast?
+
+The complete dialog [[audio:audio/lesson-2-dialogue-1.mp3]]
 
 - What are you doing? Are you making toast?
 - O que estás a fazer? Estás a fazer torradas?
@@ -251,6 +252,8 @@ Contractions:
 ** TODO para: to, pela: for the toas                               :noexport:
 ** I can't eat while I talk
 
+The complete dialog [[audio:audio/lesson-2-dialogue-2.mp3]]
+
 - Because we have a lot of bread which are left over. When do you have to leave?
 - Porque temos muito pão que sobrou. Quando tens que sair?
 
@@ -268,4 +271,3 @@ Contractions:
 
 - Listen, thanks for the toast, but I can't eat while I talk.
 - Escuta-me, obrigado pela torrada, mas não posso comer enquanto falo.
-  
