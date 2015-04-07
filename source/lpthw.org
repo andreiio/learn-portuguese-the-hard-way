@@ -4,7 +4,7 @@
 #+INCLUDE: lessons/title-slide.org :minlevel 1
 #+INCLUDE: lessons/philosophy.org :minlevel 1
 
-* Unit 0 :noexport:
+* Unit 0
 
 #+INCLUDE: lessons/lesson-0.org :minlevel 2
 

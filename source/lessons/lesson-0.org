@@ -1,3 +1,8 @@
-* Lesson 0
 
-pt1line
+*Survival Phrases:*
+
+Download the [[https://github.com/profound-labs/pt200lines/raw/master/pt200lines.pdf][pt200lines.pdf]] cheatsheet.
+
+This is work in progress, it has about 100 phrases now, on one A4
+page. Eventually the aim is to have 200 phrases, plus a short grammar
+reference and conjugation tables.

@@ -46,7 +46,7 @@ Questions can be of the same form, with a raised tone at the end.
 
 #+ATTR_REVEAL: :frag t
 | Does he want a coffee?  | Ele quer um café?        | [[audio:audio/ele-quer-um-café-Q.mp3]]     |
-| (Do you) want a coffee? | (O senhor) quer um café? | [[audio:audio/O senhor quer um café?.mp3]] |
+| (Do you) want a coffee? | (O senhor) quer um café? | [[audio:audio/O senhor quer um café Q.mp3]] |
 
 #+ATTR_REVEAL: :frag t
 | Please | Por favor | [[audio:audio/por-favor.mp3]] |
