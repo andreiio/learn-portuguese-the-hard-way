@@ -5,6 +5,7 @@
 *.tsv
 *.ods
 *.xlsx
+source/auto/
 source/lpthw.tex
 source/lpthw.pdf
 source/lpthw.html

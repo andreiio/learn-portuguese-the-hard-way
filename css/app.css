@@ -4,8 +4,8 @@
 .reveal em { font-family: serif; }
 .reveal p { text-align: left; margin-top: 1em; margin-left: 1em; }
 
-.reveal table { padding-top: 1em; }
-.reveal table td { padding-left: 1em; padding-right: 1em; }
+.reveal table { padding-top: 1em; border: none; }
+.reveal table td { padding-left: 1em; padding-right: 1em; border: none; }
 .reveal table td:first-child { padding-left: 0em; }
 .reveal table td:last-child { padding-right: 0em; }
 

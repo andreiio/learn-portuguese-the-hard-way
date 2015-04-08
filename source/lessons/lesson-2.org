@@ -68,8 +68,8 @@ It is common to begin "Why..." questions as "Why is it that...": /Porque é que.
 
 It is the same word as "Why". You can think of them as "For what...? For that..."
  
-| I want a coffee because I am tired.    | Quero um café porque estou cansado.            | [[audio:audio/Quero um café porque estou cansado.mp3]] |
-| Why here? Because we can't go further. | Porquê aqui? Porque não podemos ir mais longe. | [[audio:audio/Porquê aqui? Porque não podemos ir mais longe.mp3]] |
+| I want a coffee because I am tired.    | Quero um café porque estou cansado.            |
+| Why here? Because we can't go further. | Porquê aqui? Porque não podemos ir mais longe. |
 
 ** How many, How much
 
@@ -142,10 +142,10 @@ already mentioned.
 - the ones that
 - the ones who
   
-| Do you need the knife that I have?     | Precisas da faca que tenho?                | [[audio:audio/Precisas da faca que tenho Q.mp3]]               |
-| I need the one that is in the drawer.  | Preciso da que está na gaveta.             | [[audio:audio/Preciso da que está na gaveta.mp3]]             |
-| Can you hear the man who is eating?    | Consegues ouvir o homem que come?          | [[audio:audio/Consegues ouvir o homem que come Q.mp3]]         |
-| He is eating the toast which is ready. | Ele está a come a torrada que está pronto. | [[audio:audio/Ele está a come a torrada que está pronto.mp3]] |
+| Do you need the knife that I have?     | Precisas da faca que tenho?                 | [[audio:audio/Precisas da faca que tenho Q.mp3]]               |
+| I need the one that is in the drawer.  | Preciso da que está na gaveta.              | [[audio:audio/Preciso da que está na gaveta.mp3]]              |
+| Can you hear the man who is eating?    | Consegues ouvir o homem que come?           | [[audio:audio/Consegues ouvir o homem que come Q.mp3]]         |
+| He is eating the toast which is ready. | Ele está a comer a torrada que está pronto. | [[audio:audio/Ele está a comer a torrada que está pronta.mp3]] |
 
 ** Give me the knife
    
@@ -183,7 +183,7 @@ Where English has 'soon', in Portuguese it is either 'early' or 'shortly' (lit. 
 | Don't do (that) so early.                          | Não a faças (isto) tão cedo.                             | [[audio:audio/Não a faças tão cedo.mp3]]                                    |
 | I can't talk here, but I am there soon.            | Não posso falar aqui, mas eu estarei lá em breve.        | [[audio:audio/Não posso falar aqui, mas eu estarei lá em breve.mp3]]        |
 | This butter is so hard, it is not good for toasts. | Esta manteiga está tão dura, não está boa para torradas. | [[audio:audio/Esta manteiga está tão dura, não está boa para torradas.mp3]] |
-| Soon I am eating the one which has jam.            | Em breve eu está a come aquela que tem doce.             | [[audio:audio/Em breve eu está a come aquela que tem doce.mp3]]             |
+| Soon I am eating the one which has jam.            | Em breve eu está a comer aquela que tem doce.            | [[audio:audio/Em breve eu estarei a comer aquela que tem doce.mp3]]             |
 
 *** notes                                                          :noexport:
     

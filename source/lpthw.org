@@ -2,7 +2,6 @@
 #+SETUPFILE: lpthw-setup.org
 
 #+INCLUDE: lessons/title-slide.org :minlevel 1
-#+INCLUDE: lessons/philosophy.org :minlevel 1
 
 * Unit 0
 

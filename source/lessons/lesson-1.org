@@ -275,18 +275,18 @@ Use it for:
 
 ** This And That
 
-| this (near, m.) | este   | [[audio:audio/este.mp3]]   |
-| this (near, f.) | esta   | TODO                   |
-|-----------------+--------+------------------------|
-| that (near, m.) | esse   | [[audio:audio/esse.mp3]]   |
-| that (near, f.) | essa   | TODO                   |
-|-----------------+--------+------------------------|
-| that (far, m.)  | aquele | [[audio:audio/aquele.mp3]] |
-| that (far, f.)  | aquela | TODO                   |
-|-----------------+--------+------------------------|
-| this (near, n.) | isto   | [[audio:audio/isto.mp3]]   |
-| that (near, n.) | isto   | [[audio:audio/isto.mp3]]   |
-| that (far, n.)  | aquelo | TODO                   |
+| this (near, m.) | este   |
+| this (near, f.) | esta   |
+|-----------------+--------|
+| that (near, m.) | esse   |
+| that (near, f.) | essa   |
+|-----------------+--------|
+| that (far, m.)  | aquele |
+| that (far, f.)  | aquela |
+|-----------------+--------|
+| this (near, n.) | isto   |
+| that (near, n.) | isto   |
+| that (far, n.)  | aquelo |
 
 ** A Book About The Village
 
@@ -304,16 +304,16 @@ Use it for:
 - I'm not very well. It is very cold today. Do you have a minute? May I come in?
 
 #+ATTR_REVEAL: :frag t
-| Não estou muito bem. | [[audio:audio/não-estou-muito-bem.mp3]] |
+| Não estou muito bem.  | [[audio:audio/não-estou-muito-bem.mp3]]  |
 | Está muito frio hoje. | [[audio:audio/está-muito-frio-hoje.mp3]] |
-| Tens um minuto? | [[audio:audio/tens-um-minuto-Q.mp3]] |
-| Posso entrar? | [[audio:audio/posso-entrar-Q.mp3]] |
+| Tens um minuto?       | [[audio:audio/Tens um minuto Q.mp3]]     |
+| Posso entrar?         | [[audio:audio/posso-entrar-Q.mp3]]       |
 
 #+ATTR_REVEAL: :frag t
 - Yes, come in. Do you want a coffee?
 
 #+ATTR_REVEAL: :frag t
-| Sim, entre. Queres um café? | [[audio:audio/sim-entre-queres-um-café-Q.mp3]] |
+| Sim, entre. Queres um café? | [[audio:audio/Sim, entra. Queres um café Q.mp3]] |
 
 (continue *down*)
 
@@ -335,9 +335,9 @@ Use it for:
 - Thank you. Hot coffee is good. Do you have a book about the village?
 
 #+ATTR_REVEAL: :frag t
-| Obrigado. | [[audio:audio/obrigado.mp3]] |
-| Café quente está bem. | [[audio:audio/café-quente-está-bem.mp3]] |
-| Tens algum livro sobre a aldeia? | [[audio:audio/tens-algum-livro-sobre-a-aldeia-Q.mp3]] |
+| Obrigado.                        | [[audio:audio/obrigado.mp3]]                          |
+| Café quente está bem.            | [[audio:audio/café-quente-está-bem.mp3]]              |
+| Tens algum livro sobre a aldeia? | [[audio:audio/Tens algum livro sobre a aldeia Q.mp3]] |
 
 (continue *down*)
 
@@ -346,9 +346,9 @@ Use it for:
 - I have. This book has many photos. It is a good book, but it is old.
 
 #+ATTR_REVEAL: :frag t
-| Tenho. | [[audio:audio/tenho.mp3]] |
-| Este livro tem muita fotos. | [[audio:audio/este-livro-tem-muita-fotos.mp3]] |
-| O livro é bom, mas é antigo. | [[audio:audio/o-livro-é-bom-mas-é-antigo.mp3]] |
+| Tenho.                       | [[audio:audio/tenho.mp3]]                       |
+| Este livro tem muita fotos.  | [[audio:audio/este-livro-tem-muita-fotos.mp3]]  |
+| O livro é bom, mas é antigo. | [[audio:audio/O livro é bom, mas é antigo.mp3]] |
 
 #+ATTR_REVEAL: :frag t
 - Can I see it?
@@ -360,9 +360,9 @@ Use it for:
 - Sure. Look at this. That is a good beach.
 
 #+ATTR_REVEAL: :frag t
-| Está bem. | [[audio:audio/está-bem.mp3]] |
-| Olha para isto. | [[audio:audio/olha-para-isto.mp3]] |
-| Essa é uma boa praia. | [[audio:audio/essa-é-uma-boa-praia.mp3]] |
+| Está bem.             | [[audio:audio/Está bem.mp3]]             |
+| Olha para isto.       | [[audio:audio/olha-para-isto.mp3]]       |
+| Essa é uma boa praia. | [[audio:audio/Essa é uma boa praia.mp3]] |
 
 (continue *down*)
 

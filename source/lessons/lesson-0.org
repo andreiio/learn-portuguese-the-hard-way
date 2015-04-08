@@ -1,8 +1,23 @@
+* Lesson 0
 
-*Survival Phrases:*
+*Philosophy*
+
+The hard way is the easy way.
+
+Following the principles of [[http://zedshaw.com/about/][Zed Shaw]]'s "Learn [[http://learnpythonthehardway.org/book/intro.html][Pyhton]] / [[http://learnrubythehardway.org/book/intro.html][Ruby]] the Hard Way".
+
+*Survival Phrases*
 
 Download the [[https://github.com/profound-labs/pt200lines/raw/master/pt200lines.pdf][pt200lines.pdf]] cheatsheet.
 
 This is work in progress, it has about 100 phrases now, on one A4
 page. Eventually the aim is to have 200 phrases, plus a short grammar
 reference and conjugation tables.
+
+*Drill it*
+
+Download [[https://github.com/profound-labs/learn-portuguese-the-hard-way/archive/gh-pages.zip][everything]] in a ZIP and drill it everywhere:
+
+- open =lpthw-slides.html= in a browser
+- import the [[./anki/Learn-Portuguese-The-Hard-Way.apkg][flashcard deck]] to practise with [[http://ankisrs.net][Anki]], includes audio
+- =lpthw-ref.pdf= or =lpthw-ref.html= for reference or printing

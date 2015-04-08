@@ -1,5 +1,6 @@
 #+OPTIONS: toc:nil num:nil email:nil reveal_title_slide:nil reveal_progress:t
 #+REVEAL_TRANS: linear
+#+REVEAL_THEME: black
 #+REVEAL_HLEVEL: 3
 #+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Learn Portuguese The Hard Way"> <link rel="stylesheet" href="css/app.css"> <script src="js/vendor/audiojs/audio.js"></script> <script src="js/app.js"></script>
 #+LATEX_CLASS: memoir
