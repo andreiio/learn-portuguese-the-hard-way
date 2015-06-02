@@ -178,7 +178,7 @@ Use it for:
 - to point something out (it is a beautiful beach)
 
 | Roses are red forever.     | Ros/as/ (f.pl.) são vermelh/as/ para sempre. | [[audio:audio/Rosas são vermelhas para sempre.mp3]] |
-| (It) is a beautiful beach. | É um prai/a/ (f.) bonit/a/.                  | [[audio:audio/é-um-praia-bonita.mp3]]               |
+| (It) is a beautiful beach. | É uma prai/a/ (f.) bonit/a/.                 | [[audio:audio/é-uma-praia-bonita.mp3]]              |
 | I am Pedro.                | Eu sou o Pedro.                              | [[audio:audio/eu-sou-o-pedro.mp3]]                  |
 
 *** Ser, conjugation :noexport:
